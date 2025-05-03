@@ -1,0 +1,1048 @@
+2025-05-03 12:32:28,595 - INFO - Using default request storage
+2025-05-03 12:32:28,605 - INFO - Created proxy listening on 127.0.0.1:9785
+2025-05-03 12:32:30,518 - INFO - Capturing request: http://clients2.google.com/time/1/current?cup2key=9:PjfyGa4aQlDduqOI_Sq7iPr7Wh33f7xTIzn--c3FZ8c&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-05-03 12:32:30,743 - INFO - Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+2025-05-03 12:32:30,774 - INFO - Capturing response: http://clients2.google.com/time/1/current?cup2key=9:PjfyGa4aQlDduqOI_Sq7iPr7Wh33f7xTIzn--c3FZ8c&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 200 OK
+2025-05-03 12:32:30,838 - INFO - Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+2025-05-03 12:32:31,050 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:32:31,074 - INFO - Capturing response: https://qxbroker.com/en/trade 403 
+2025-05-03 12:32:31,192 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:32:31,326 - INFO - Capturing response: https://qxbroker.com/en/trade 403 
+2025-05-03 12:32:31,468 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=939db8bb4dd1a478
+2025-05-03 12:32:31,564 - INFO - Capturing request: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+2025-05-03 12:32:31,613 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=939db8bb4dd1a478 200 
+2025-05-03 12:32:31,702 - INFO - Capturing response: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015 200 
+2025-05-03 12:32:31,747 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:32:31,759 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1125834282:1746252936:I3KTNFEn49YUMWvjoRVvB7KUzHhTg1sGUn7S7pAJISY/939db8bb4dd1a478/OeZS9apfN2RsOfDboVnGVFdRHV1GMyVoH.twYH.y.uo-1746253951-1.2.1.1-n5neIzqwm9eSC2oZcrDUW7LDfP4tqVGSlnOICLjkNaudf7eQVwLd3BEBxT91mg1k
+2025-05-03 12:32:31,769 - INFO - Capturing response: https://qxbroker.com/favicon.ico 403 
+2025-05-03 12:32:31,901 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1125834282:1746252936:I3KTNFEn49YUMWvjoRVvB7KUzHhTg1sGUn7S7pAJISY/939db8bb4dd1a478/OeZS9apfN2RsOfDboVnGVFdRHV1GMyVoH.twYH.y.uo-1746253951-1.2.1.1-n5neIzqwm9eSC2oZcrDUW7LDfP4tqVGSlnOICLjkNaudf7eQVwLd3BEBxT91mg1k 200 
+2025-05-03 12:32:31,951 - INFO - Capturing request: https://challenges.cloudflare.com/turnstile/v0/g/8b139538fc64/api.js?onload=wSuaP7&render=explicit
+2025-05-03 12:32:32,135 - INFO - Capturing response: https://challenges.cloudflare.com/turnstile/v0/g/8b139538fc64/api.js?onload=wSuaP7&render=explicit 200 
+2025-05-03 12:32:32,298 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/v4ax0/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/
+2025-05-03 12:32:32,432 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/v4ax0/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/ 200 
+2025-05-03 12:32:32,566 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=939db8c22b1b4e9c&lang=auto
+2025-05-03 12:32:32,568 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1
+2025-05-03 12:32:32,615 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1 200 
+2025-05-03 12:32:32,705 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=939db8c22b1b4e9c&lang=auto 200 
+2025-05-03 12:32:32,725 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:32:32,845 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:32:32,860 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:32:32,876 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/679321636:1746252846:PsnsxR4p2aiVLHhZXDxTdSkfLvndZlUjwXv8oObwYw4/939db8c22b1b4e9c/C.8_1QZ7ZuDDGHOwBul0iOKTr8f3sW54PuTovNxiPvk-1746253952-1.2.1.1-YoQQxhgiIXpMwQwVib3PQSFOz7.l0ZnWWXGUqbaSPkx_aZX.G5yenHL0b5bn9VAe
+2025-05-03 12:32:32,983 - INFO - Capturing response: https://qxbroker.com/favicon.ico 403 
+2025-05-03 12:32:33,166 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/679321636:1746252846:PsnsxR4p2aiVLHhZXDxTdSkfLvndZlUjwXv8oObwYw4/939db8c22b1b4e9c/C.8_1QZ7ZuDDGHOwBul0iOKTr8f3sW54PuTovNxiPvk-1746253952-1.2.1.1-YoQQxhgiIXpMwQwVib3PQSFOz7.l0ZnWWXGUqbaSPkx_aZX.G5yenHL0b5bn9VAe 200 
+2025-05-03 12:32:33,656 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/939db8c22b1b4e9c/1746253952949/ayhquaG1FqUEUua
+2025-05-03 12:32:33,798 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/939db8c22b1b4e9c/1746253952949/ayhquaG1FqUEUua 200 
+2025-05-03 12:32:34,995 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/939db8c22b1b4e9c/1746253952959/a1124349a90a2c8d61424fc0b5f48c014baaee6d3010220bd64a00dcc7f367f2/FDqlLqpqrZOMLQ1
+2025-05-03 12:32:35,122 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/939db8c22b1b4e9c/1746253952959/a1124349a90a2c8d61424fc0b5f48c014baaee6d3010220bd64a00dcc7f367f2/FDqlLqpqrZOMLQ1 401 
+2025-05-03 12:32:35,551 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/679321636:1746252846:PsnsxR4p2aiVLHhZXDxTdSkfLvndZlUjwXv8oObwYw4/939db8c22b1b4e9c/C.8_1QZ7ZuDDGHOwBul0iOKTr8f3sW54PuTovNxiPvk-1746253952-1.2.1.1-YoQQxhgiIXpMwQwVib3PQSFOz7.l0ZnWWXGUqbaSPkx_aZX.G5yenHL0b5bn9VAe
+2025-05-03 12:32:35,697 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/679321636:1746252846:PsnsxR4p2aiVLHhZXDxTdSkfLvndZlUjwXv8oObwYw4/939db8c22b1b4e9c/C.8_1QZ7ZuDDGHOwBul0iOKTr8f3sW54PuTovNxiPvk-1746253952-1.2.1.1-YoQQxhgiIXpMwQwVib3PQSFOz7.l0ZnWWXGUqbaSPkx_aZX.G5yenHL0b5bn9VAe 200 
+2025-05-03 12:32:37,763 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/679321636:1746252846:PsnsxR4p2aiVLHhZXDxTdSkfLvndZlUjwXv8oObwYw4/939db8c22b1b4e9c/C.8_1QZ7ZuDDGHOwBul0iOKTr8f3sW54PuTovNxiPvk-1746253952-1.2.1.1-YoQQxhgiIXpMwQwVib3PQSFOz7.l0ZnWWXGUqbaSPkx_aZX.G5yenHL0b5bn9VAe
+2025-05-03 12:32:37,966 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/679321636:1746252846:PsnsxR4p2aiVLHhZXDxTdSkfLvndZlUjwXv8oObwYw4/939db8c22b1b4e9c/C.8_1QZ7ZuDDGHOwBul0iOKTr8f3sW54PuTovNxiPvk-1746253952-1.2.1.1-YoQQxhgiIXpMwQwVib3PQSFOz7.l0ZnWWXGUqbaSPkx_aZX.G5yenHL0b5bn9VAe 200 
+2025-05-03 12:32:37,989 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1125834282:1746252936:I3KTNFEn49YUMWvjoRVvB7KUzHhTg1sGUn7S7pAJISY/939db8bb4dd1a478/OeZS9apfN2RsOfDboVnGVFdRHV1GMyVoH.twYH.y.uo-1746253951-1.2.1.1-n5neIzqwm9eSC2oZcrDUW7LDfP4tqVGSlnOICLjkNaudf7eQVwLd3BEBxT91mg1k
+2025-05-03 12:32:38,032 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1125834282:1746252936:I3KTNFEn49YUMWvjoRVvB7KUzHhTg1sGUn7S7pAJISY/939db8bb4dd1a478/OeZS9apfN2RsOfDboVnGVFdRHV1GMyVoH.twYH.y.uo-1746253951-1.2.1.1-n5neIzqwm9eSC2oZcrDUW7LDfP4tqVGSlnOICLjkNaudf7eQVwLd3BEBxT91mg1k 200 
+2025-05-03 12:32:40,183 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:32:40,316 - INFO - Capturing response: https://qxbroker.com/en/trade 403 
+2025-05-03 12:32:40,316 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:32:40,433 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=939db8f37f1ba478
+2025-05-03 12:32:40,499 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:32:40,533 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE
+2025-05-03 12:32:40,564 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=939db8f37f1ba478 200 
+2025-05-03 12:32:40,617 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE 200 
+2025-05-03 12:32:40,698 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/881715283:1746252914:v-g5Ymaw8MHPTaUD62dCb9YYy79o1u0JCi5ZqOlXR-g/939db8f37f1ba478/f1xnkdz7W0MtBZ3VgMHMaDa.LraVsWpWS5Te8vxywrY-1746253960-1.2.1.1-_JXh_vUM79XhXUwy.q1ROk4GTZ8e8MhykpIxnNpZClq6LFteEQWLnRiVYiL.TOj6
+2025-05-03 12:32:40,714 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:32:40,818 - INFO - Capturing response: https://qxbroker.com/favicon.ico 403 
+2025-05-03 12:32:40,823 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:32:40,848 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+2025-05-03 12:32:40,848 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/881715283:1746252914:v-g5Ymaw8MHPTaUD62dCb9YYy79o1u0JCi5ZqOlXR-g/939db8f37f1ba478/f1xnkdz7W0MtBZ3VgMHMaDa.LraVsWpWS5Te8vxywrY-1746253960-1.2.1.1-_JXh_vUM79XhXUwy.q1ROk4GTZ8e8MhykpIxnNpZClq6LFteEQWLnRiVYiL.TOj6 200 
+2025-05-03 12:32:40,848 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744643050&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+2025-05-03 12:32:40,935 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:32:40,966 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:32:40,996 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+2025-05-03 12:32:40,999 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744643050&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+2025-05-03 12:32:41,000 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/c8z5f/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/
+2025-05-03 12:32:41,024 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/c8z5f/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/ 200 
+2025-05-03 12:32:41,066 - INFO - Capturing response: https://qxbroker.com/favicon.ico 403 
+2025-05-03 12:32:41,146 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1
+2025-05-03 12:32:41,148 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=939db8f88bce4e9c&lang=auto
+2025-05-03 12:32:41,164 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1 200 
+2025-05-03 12:32:41,164 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744643050&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+2025-05-03 12:32:41,195 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744643050&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+2025-05-03 12:32:41,290 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=939db8f88bce4e9c&lang=auto 200 
+2025-05-03 12:32:41,303 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+2025-05-03 12:32:41,431 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY
+2025-05-03 12:32:41,449 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY
+2025-05-03 12:32:41,462 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1924269845:1746252950:pd7EPQxV66QhN7n4lGzFbh2x46B_i7kosx0dQg10w2s/939db8f88bce4e9c/zh0vEtDgsHm0rLMPXQf3S05zLANtjrh728Kc3eESUk8-1746253961-1.2.1.1-bxdr417Frgys9o3z4B3KWEU6Rmt1AUGg9BzMNwqJSP4JbPW1Jdbxnj1ePYLZAgjF
+2025-05-03 12:32:41,515 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+2025-05-03 12:32:41,531 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2
+2025-05-03 12:32:41,748 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1924269845:1746252950:pd7EPQxV66QhN7n4lGzFbh2x46B_i7kosx0dQg10w2s/939db8f88bce4e9c/zh0vEtDgsHm0rLMPXQf3S05zLANtjrh728Kc3eESUk8-1746253961-1.2.1.1-bxdr417Frgys9o3z4B3KWEU6Rmt1AUGg9BzMNwqJSP4JbPW1Jdbxnj1ePYLZAgjF 200 
+2025-05-03 12:32:41,913 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY
+2025-05-03 12:32:41,915 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2
+2025-05-03 12:32:41,958 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2
+2025-05-03 12:32:41,960 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY
+2025-05-03 12:32:42,156 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2
+2025-05-03 12:32:42,165 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY
+2025-05-03 12:32:42,233 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+2025-05-03 12:32:42,235 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2
+2025-05-03 12:32:42,392 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/939db8f88bce4e9c/1746253961545/b1a922084b85b1aba0331de2e3af609cd7405e033e6ea03ed020052b4e48e393/Q4uiKavk7Ik8I6l
+2025-05-03 12:32:42,528 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/939db8f88bce4e9c/1746253961545/b1a922084b85b1aba0331de2e3af609cd7405e033e6ea03ed020052b4e48e393/Q4uiKavk7Ik8I6l 401 
+2025-05-03 12:32:42,682 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+2025-05-03 12:32:42,684 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST
+2025-05-03 12:32:42,697 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST
+2025-05-03 12:32:42,700 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+2025-05-03 12:32:42,888 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/939db8f88bce4e9c/1746253961547/WZ9UDsw-3ecrf_t
+2025-05-03 12:32:43,029 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/939db8f88bce4e9c/1746253961547/WZ9UDsw-3ecrf_t 200 
+2025-05-03 12:32:43,145 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST
+2025-05-03 12:32:43,147 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+2025-05-03 12:32:43,160 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+2025-05-03 12:32:43,162 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST
+2025-05-03 12:32:43,177 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST
+2025-05-03 12:32:43,178 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+2025-05-03 12:32:43,223 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING
+2025-05-03 12:32:43,224 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+2025-05-03 12:32:43,242 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+2025-05-03 12:32:43,395 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING
+2025-05-03 12:32:43,399 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+2025-05-03 12:32:43,412 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING
+2025-05-03 12:32:43,416 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+2025-05-03 12:32:43,541 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING
+2025-05-03 12:32:43,543 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+2025-05-03 12:32:43,559 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1924269845:1746252950:pd7EPQxV66QhN7n4lGzFbh2x46B_i7kosx0dQg10w2s/939db8f88bce4e9c/zh0vEtDgsHm0rLMPXQf3S05zLANtjrh728Kc3eESUk8-1746253961-1.2.1.1-bxdr417Frgys9o3z4B3KWEU6Rmt1AUGg9BzMNwqJSP4JbPW1Jdbxnj1ePYLZAgjF
+2025-05-03 12:32:43,618 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING
+2025-05-03 12:32:43,619 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION
+2025-05-03 12:32:43,651 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+2025-05-03 12:32:43,776 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION
+2025-05-03 12:32:43,777 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION
+2025-05-03 12:32:43,779 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION
+2025-05-03 12:32:43,780 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION
+2025-05-03 12:32:43,791 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1924269845:1746252950:pd7EPQxV66QhN7n4lGzFbh2x46B_i7kosx0dQg10w2s/939db8f88bce4e9c/zh0vEtDgsHm0rLMPXQf3S05zLANtjrh728Kc3eESUk8-1746253961-1.2.1.1-bxdr417Frgys9o3z4B3KWEU6Rmt1AUGg9BzMNwqJSP4JbPW1Jdbxnj1ePYLZAgjF 200 
+2025-05-03 12:32:44,293 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+2025-05-03 12:32:44,798 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING 200 
+2025-05-03 12:32:45,081 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+2025-05-03 12:32:45,108 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY 200 
+2025-05-03 12:32:45,137 - INFO - 127.0.0.1:9816: ProtocolException("Error in HTTP connection: Http2ZombieException('Connection or stream already dead: 1746253965.135205, False')")
+2025-05-03 12:32:45,315 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1924269845:1746252950:pd7EPQxV66QhN7n4lGzFbh2x46B_i7kosx0dQg10w2s/939db8f88bce4e9c/zh0vEtDgsHm0rLMPXQf3S05zLANtjrh728Kc3eESUk8-1746253961-1.2.1.1-bxdr417Frgys9o3z4B3KWEU6Rmt1AUGg9BzMNwqJSP4JbPW1Jdbxnj1ePYLZAgjF
+2025-05-03 12:32:45,383 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING 200 
+2025-05-03 12:32:45,437 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1924269845:1746252950:pd7EPQxV66QhN7n4lGzFbh2x46B_i7kosx0dQg10w2s/939db8f88bce4e9c/zh0vEtDgsHm0rLMPXQf3S05zLANtjrh728Kc3eESUk8-1746253961-1.2.1.1-bxdr417Frgys9o3z4B3KWEU6Rmt1AUGg9BzMNwqJSP4JbPW1Jdbxnj1ePYLZAgjF 200 
+2025-05-03 12:32:45,471 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/881715283:1746252914:v-g5Ymaw8MHPTaUD62dCb9YYy79o1u0JCi5ZqOlXR-g/939db8f37f1ba478/f1xnkdz7W0MtBZ3VgMHMaDa.LraVsWpWS5Te8vxywrY-1746253960-1.2.1.1-_JXh_vUM79XhXUwy.q1ROk4GTZ8e8MhykpIxnNpZClq6LFteEQWLnRiVYiL.TOj6
+2025-05-03 12:32:45,482 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+2025-05-03 12:32:45,849 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING 200 
+2025-05-03 12:32:45,849 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/881715283:1746252914:v-g5Ymaw8MHPTaUD62dCb9YYy79o1u0JCi5ZqOlXR-g/939db8f37f1ba478/f1xnkdz7W0MtBZ3VgMHMaDa.LraVsWpWS5Te8vxywrY-1746253960-1.2.1.1-_JXh_vUM79XhXUwy.q1ROk4GTZ8e8MhykpIxnNpZClq6LFteEQWLnRiVYiL.TOj6 200 
+2025-05-03 12:32:45,874 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:32:45,997 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:32:46,129 - INFO - Capturing response: https://qxbroker.com/favicon.ico 200 
+2025-05-03 12:32:46,145 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION 200 
+2025-05-03 12:32:46,150 - INFO - 127.0.0.1:9816: ProtocolException("Error in HTTP connection: Http2ZombieException('Connection or stream already dead: 1746253966.1493702, False')")
+2025-05-03 12:32:46,190 - INFO - Capturing response: https://qxbroker.com/en/trade 200 
+2025-05-03 12:32:46,230 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:32:46,331 - INFO - Capturing request: https://qxbroker.com/css/debugbar/debug-bar-decorator.css
+2025-05-03 12:32:46,332 - INFO - Capturing request: https://qxbroker.com/site/img/playmarket.svg
+2025-05-03 12:32:46,334 - INFO - Capturing request: https://qxbroker.com/site/img/quotex_logo-white.svg
+2025-05-03 12:32:46,335 - INFO - Capturing request: https://qxbroker.com/site/css/main.min.css?8
+2025-05-03 12:32:46,349 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING 200 
+2025-05-03 12:32:46,384 - INFO - Capturing response: https://qxbroker.com/site/css/main.min.css?8 200 
+2025-05-03 12:32:46,388 - INFO - Capturing response: https://qxbroker.com/site/img/playmarket.svg 200 
+2025-05-03 12:32:46,392 - INFO - Capturing response: https://qxbroker.com/site/img/quotex_logo-white.svg 200 
+2025-05-03 12:32:46,400 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:32:46,477 - INFO - Capturing response: https://qxbroker.com/css/debugbar/debug-bar-decorator.css 200 
+2025-05-03 12:32:46,512 - INFO - Capturing request: https://qxbroker.com/site/js/main.min.js?7
+2025-05-03 12:32:46,563 - INFO - Capturing request: https://unpkg.com/imask
+2025-05-03 12:32:46,648 - INFO - Capturing response: https://qxbroker.com/site/js/main.min.js?7 200 
+2025-05-03 12:32:46,715 - INFO - Capturing request: https://www.free-kassa.ru/img/fk_btn/17.png
+2025-05-03 12:32:46,881 - INFO - Capturing response: https://unpkg.com/imask 302 
+2025-05-03 12:32:46,897 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING 200 
+2025-05-03 12:32:46,931 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION 200 
+2025-05-03 12:32:46,981 - INFO - Capturing response: https://www.free-kassa.ru/img/fk_btn/17.png 301 
+2025-05-03 12:32:46,997 - INFO - Capturing request: https://unpkg.com/imask@7.6.1/dist/imask.js
+2025-05-03 12:32:47,215 - INFO - Capturing response: https://unpkg.com/imask@7.6.1/dist/imask.js 200 
+2025-05-03 12:32:47,330 - INFO - Capturing request: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+2025-05-03 12:32:47,347 - INFO - Capturing request: https://qxbroker.com/site/img/icons/google.svg
+2025-05-03 12:32:47,347 - INFO - Capturing request: https://qxbroker.com/site/img/icons/facebook-login.svg
+2025-05-03 12:32:47,347 - INFO - Capturing request: https://qxbroker.com/site/img/icons/facebook.svg
+2025-05-03 12:32:47,347 - INFO - Capturing request: https://qxbroker.com/site/img/quotex_logo.svg
+2025-05-03 12:32:47,347 - INFO - Capturing request: https://qxbroker.com/site/img/about-us/bg-sing-form.png
+2025-05-03 12:32:47,347 - INFO - Capturing request: https://qxbroker.com/profile/images/spritemap.svg
+2025-05-03 12:32:47,363 - INFO - Capturing request: https://qxbroker.com/site/img/icons/instagram.svg
+2025-05-03 12:32:47,363 - INFO - Capturing response: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015 200 
+2025-05-03 12:32:47,363 - INFO - Capturing request: https://qxbroker.com/site/img/icons/telegram.svg
+2025-05-03 12:32:47,397 - INFO - Capturing request: https://freekassa.net/
+2025-05-03 12:32:47,397 - INFO - Capturing request: https://qxbroker.com/fonts/Roboto-Bold.ttf
+2025-05-03 12:32:47,397 - INFO - Capturing request: https://qxbroker.com/fonts/Roboto-Regular.ttf
+2025-05-03 12:32:47,397 - INFO - Capturing request: https://qxbroker.com/fonts/Roboto-Medium.ttf
+2025-05-03 12:32:47,397 - INFO - Capturing request: https://qxbroker.com/site/img/main_bg.mp4
+2025-05-03 12:32:47,413 - INFO - Capturing request: https://qxbroker.com/fonts/Roboto-Black.ttf
+2025-05-03 12:32:47,424 - INFO - Capturing response: https://qxbroker.com/site/img/icons/telegram.svg 200 
+2025-05-03 12:32:47,498 - INFO - Capturing response: https://qxbroker.com/site/img/icons/facebook.svg 200 
+2025-05-03 12:32:47,503 - INFO - Capturing response: https://qxbroker.com/site/img/quotex_logo.svg 200 
+2025-05-03 12:32:47,504 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/scripts/jsd/main.js
+2025-05-03 12:32:47,508 - INFO - Capturing response: https://qxbroker.com/site/img/icons/google.svg 200 
+2025-05-03 12:32:47,512 - INFO - Capturing response: https://qxbroker.com/site/img/icons/facebook-login.svg 200 
+2025-05-03 12:32:47,515 - INFO - Capturing response: https://qxbroker.com/site/img/about-us/bg-sing-form.png 200 
+2025-05-03 12:32:47,546 - INFO - Capturing request: https://www.googletagmanager.com/gtag/js?id=G-L4T5GBPFHJ
+2025-05-03 12:32:47,552 - INFO - Capturing response: https://qxbroker.com/site/img/icons/instagram.svg 200 
+2025-05-03 12:32:47,575 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION 200 
+2025-05-03 12:32:47,645 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/scripts/jsd/main.js 302 
+2025-05-03 12:32:47,670 - INFO - Capturing response: https://qxbroker.com/fonts/Roboto-Black.ttf 200 
+2025-05-03 12:32:47,714 - INFO - Capturing response: https://qxbroker.com/fonts/Roboto-Bold.ttf 200 
+2025-05-03 12:32:47,714 - INFO - Capturing request: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBI1CStNkJNVmcihEgUNkVN0rBIFDb5Qm4ESBQ2uXsj2EgUNg6hbPRIFDc5BTHohlvZx0S5fZF8SIAkw-Y7WWs-_uhIFDYOoWz0SBQ3OQUx6Ic6yPEc8k8sI?alt=proto
+2025-05-03 12:32:47,770 - INFO - Capturing response: https://qxbroker.com/fonts/Roboto-Medium.ttf 200 
+2025-05-03 12:32:47,789 - INFO - Capturing response: https://qxbroker.com/fonts/Roboto-Regular.ttf 200 
+2025-05-03 12:32:47,864 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/8b139538fc64/main.js?
+2025-05-03 12:32:47,913 - INFO - Capturing response: https://qxbroker.com/profile/images/spritemap.svg 200 
+2025-05-03 12:32:47,932 - INFO - Capturing response: https://www.googletagmanager.com/gtag/js?id=G-L4T5GBPFHJ 200 
+2025-05-03 12:32:47,971 - INFO - Capturing response: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBI1CStNkJNVmcihEgUNkVN0rBIFDb5Qm4ESBQ2uXsj2EgUNg6hbPRIFDc5BTHohlvZx0S5fZF8SIAkw-Y7WWs-_uhIFDYOoWz0SBQ3OQUx6Ic6yPEc8k8sI?alt=proto 200 
+2025-05-03 12:32:48,014 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/8b139538fc64/main.js? 200 
+2025-05-03 12:32:48,115 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION 200 
+2025-05-03 12:32:48,118 - INFO - Capturing response: https://qxbroker.com/site/img/main_bg.mp4 206 
+2025-05-03 12:32:48,188 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/jsd/r/0.15582837526815146:1746252816:urDNIrnYXFI5wo45QR2UagLgbEloB_lpxU9sI60kzgA/939db9171d65a478
+2025-05-03 12:32:48,304 - INFO - Capturing request: https://qxbroker.com/site/img/main_bg.mp4
+2025-05-03 12:32:48,331 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/jsd/r/0.15582837526815146:1746252816:urDNIrnYXFI5wo45QR2UagLgbEloB_lpxU9sI60kzgA/939db9171d65a478 200 
+2025-05-03 12:32:48,380 - INFO - Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746253967223&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1258501141.1746253968&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1746253968&sct=1&seg=0&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3D73LMrOVeCbGHaxi7QXirliENeLsMZ41oTr6ESSeB_7k-1746253960-1.0.1.1-BqGv9SfHdXtK0eeHHjJ4wEJfE1g4.qcDCBNrAvhEcpw&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=2175
+2025-05-03 12:32:48,448 - INFO - Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746253967223&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1258501141.1746253968&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1746253968&sct=1&seg=0&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3D73LMrOVeCbGHaxi7QXirliENeLsMZ41oTr6ESSeB_7k-1746253960-1.0.1.1-BqGv9SfHdXtK0eeHHjJ4wEJfE1g4.qcDCBNrAvhEcpw&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=2175 204 
+2025-05-03 12:32:48,449 - INFO - Capturing response: https://qxbroker.com/site/img/main_bg.mp4 206 
+2025-05-03 12:32:48,466 - INFO - Capturing response: https://freekassa.net/ 200 
+2025-05-03 12:32:48,545 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION 200 
+2025-05-03 12:32:52,071 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY 200 
+2025-05-03 12:32:54,058 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY 200 
+2025-05-03 12:32:54,631 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY 200 
+2025-05-03 12:32:55,249 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY 200 
+2025-05-03 12:32:56,487 - INFO - Capturing request: https://qxbroker.com/en/sign-in/
+2025-05-03 12:32:56,943 - INFO - Capturing response: https://qxbroker.com/en/sign-in/ 302 
+2025-05-03 12:32:57,062 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:32:57,461 - INFO - Capturing response: https://qxbroker.com/en/trade 200 
+2025-05-03 12:32:57,476 - INFO - Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746253967223&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1258501141.1746253968&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEEAAAQ&sid=1746253968&sct=1&seg=0&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3D73LMrOVeCbGHaxi7QXirliENeLsMZ41oTr6ESSeB_7k-1746253960-1.0.1.1-BqGv9SfHdXtK0eeHHjJ4wEJfE1g4.qcDCBNrAvhEcpw&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&_s=2&tfd=11604
+2025-05-03 12:32:57,480 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:32:57,593 - INFO - Capturing request: https://qxbroker.com/trade-room/react/vendor.css?v=1746113426
+2025-05-03 12:32:57,595 - INFO - Capturing request: https://qxbroker.com/trade-room/react/app.css?v=1746113426
+2025-05-03 12:32:57,609 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:32:57,610 - INFO - Capturing request: https://qxbroker.com/trade-room/react/app.js?v=1746113426
+2025-05-03 12:32:57,612 - INFO - Capturing request: https://qxbroker.com/trade-room/react/vendor.js?v=1746113426
+2025-05-03 12:32:57,614 - INFO - Capturing request: https://qxbroker.com/profile/css/custom.css?v=1723031390
+2025-05-03 12:32:57,683 - INFO - Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746253967223&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1258501141.1746253968&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEEAAAQ&sid=1746253968&sct=1&seg=0&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3D73LMrOVeCbGHaxi7QXirliENeLsMZ41oTr6ESSeB_7k-1746253960-1.0.1.1-BqGv9SfHdXtK0eeHHjJ4wEJfE1g4.qcDCBNrAvhEcpw&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&_s=2&tfd=11604 204 
+2025-05-03 12:32:57,746 - INFO - Capturing response: https://qxbroker.com/trade-room/react/vendor.css?v=1746113426 200 
+2025-05-03 12:32:57,782 - INFO - Capturing response: https://qxbroker.com/profile/css/custom.css?v=1723031390 200 
+2025-05-03 12:32:57,785 - INFO - Capturing response: https://qxbroker.com/trade-room/react/app.js?v=1746113426 200 
+2025-05-03 12:32:57,797 - INFO - Capturing response: https://qxbroker.com/trade-room/react/app.css?v=1746113426 200 
+2025-05-03 12:32:58,031 - INFO - Capturing response: https://qxbroker.com/trade-room/react/vendor.js?v=1746113426 200 
+2025-05-03 12:32:58,181 - INFO - Capturing request: https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap
+2025-05-03 12:32:58,182 - INFO - Capturing request: https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic
+2025-05-03 12:32:58,258 - INFO - Capturing response: https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap 200 
+2025-05-03 12:32:58,448 - INFO - Capturing response: https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic 200 
+2025-05-03 12:32:58,577 - INFO - Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746253978453&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1258501141.1746253968&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=1&sid=1746253968&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dt=Quotex%3A%20An%20innovative%20platform%20for%20online%20investment&en=page_view&_ee=1&tfd=1991
+2025-05-03 12:32:58,646 - INFO - Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746253978453&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1258501141.1746253968&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=1&sid=1746253968&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dt=Quotex%3A%20An%20innovative%20platform%20for%20online%20investment&en=page_view&_ee=1&tfd=1991 204 
+2025-05-03 12:32:58,800 - INFO - Capturing request: https://qxbroker.com/trade-room/react/tournament.css?h=e324a71df7ee12575212
+2025-05-03 12:32:58,802 - INFO - Capturing request: https://qxbroker.com/trade-room/react/tournament.js?h=ce59f332ac364b3a701a
+2025-05-03 12:32:58,805 - INFO - Capturing request: https://qxbroker.com/trade-room/react/tournaments.css?h=1718161d33a93b493363
+2025-05-03 12:32:58,808 - INFO - Capturing request: https://qxbroker.com/trade-room/react/undefined.css?h=undefined
+2025-05-03 12:32:58,816 - INFO - Capturing request: https://qxbroker.com/trade-room/react/transactions.js?h=94b07d8ae3c3250888d1
+2025-05-03 12:32:58,818 - INFO - Capturing request: https://qxbroker.com/trade-room/react/transactions.css?h=d8f43464fe4837ce8cb2
+2025-05-03 12:32:58,819 - INFO - Capturing request: https://qxbroker.com/trade-room/react/market.css?h=fa6ee23da14792218280
+2025-05-03 12:32:58,823 - INFO - Capturing request: https://qxbroker.com/trade-room/react/chart.css?h=8d0db4ed182cf7e9c6e3
+2025-05-03 12:32:58,825 - INFO - Capturing request: https://qxbroker.com/trade-room/react/tournaments.js?h=966d3efbbbebfee0ac89
+2025-05-03 12:32:58,826 - INFO - Capturing request: https://qxbroker.com/trade-room/react/market.js?h=d78fae39538eb1f5db2f
+2025-05-03 12:32:58,828 - INFO - Capturing request: https://qxbroker.com/trade-room/react/chart.js?h=aa7ff60c2290b2cc9fce
+2025-05-03 12:32:58,834 - INFO - Capturing request: https://qxbroker.com/trade-room/react/pendingTrades.css?h=c2595566326ff2ad41f9
+2025-05-03 12:32:58,840 - INFO - Capturing request: https://qxbroker.com/trade-room/react/account.css?h=2270a8e2d2737b25afa6
+2025-05-03 12:32:58,842 - INFO - Capturing request: https://qxbroker.com/trade-room/react/trades.js?h=0683cfb80dfa0a45d073
+2025-05-03 12:32:58,844 - INFO - Capturing request: https://qxbroker.com/trade-room/react/pendingTrades.js?h=48bd086594766d29d077
+2025-05-03 12:32:58,846 - INFO - Capturing request: https://qxbroker.com/trade-room/react/analytics.css?h=b3f08bb2c4bb735a27f1
+2025-05-03 12:32:58,850 - INFO - Capturing request: https://qxbroker.com/trade-room/react/account.js?h=b82757040aca46fe0ada
+2025-05-03 12:32:58,853 - INFO - Capturing request: https://qxbroker.com/trade-room/react/trades.css?h=26837506d583295c606a
+2025-05-03 12:32:58,859 - INFO - Capturing response: https://qxbroker.com/trade-room/react/tournament.css?h=e324a71df7ee12575212 200 
+2025-05-03 12:32:58,863 - INFO - Capturing request: https://qxbroker.com/translate/en.json
+2025-05-03 12:32:58,867 - INFO - Capturing request: https://qxbroker.com/trade-room/react/analytics.js?h=53def3a8509554490a89
+2025-05-03 12:32:58,877 - INFO - Capturing response: https://qxbroker.com/trade-room/react/tournament.js?h=ce59f332ac364b3a701a 200 
+2025-05-03 12:32:58,886 - INFO - Capturing response: https://qxbroker.com/trade-room/react/transactions.css?h=d8f43464fe4837ce8cb2 200 
+2025-05-03 12:32:58,893 - INFO - Capturing response: https://qxbroker.com/trade-room/react/tournaments.css?h=1718161d33a93b493363 200 
+2025-05-03 12:32:58,899 - INFO - Capturing response: https://qxbroker.com/trade-room/react/transactions.js?h=94b07d8ae3c3250888d1 200 
+2025-05-03 12:32:58,909 - INFO - Capturing response: https://qxbroker.com/trade-room/react/chart.css?h=8d0db4ed182cf7e9c6e3 200 
+2025-05-03 12:32:58,956 - INFO - Capturing response: https://qxbroker.com/trade-room/react/tournaments.js?h=966d3efbbbebfee0ac89 200 
+2025-05-03 12:32:58,961 - INFO - Capturing response: https://qxbroker.com/trade-room/react/market.css?h=fa6ee23da14792218280 200 
+2025-05-03 12:32:58,968 - INFO - Capturing response: https://qxbroker.com/trade-room/react/market.js?h=d78fae39538eb1f5db2f 200 
+2025-05-03 12:32:58,970 - INFO - Capturing response: https://qxbroker.com/trade-room/react/pendingTrades.js?h=48bd086594766d29d077 200 
+2025-05-03 12:32:58,974 - INFO - Capturing response: https://qxbroker.com/trade-room/react/account.css?h=2270a8e2d2737b25afa6 200 
+2025-05-03 12:32:58,977 - INFO - Capturing response: https://qxbroker.com/trade-room/react/chart.js?h=aa7ff60c2290b2cc9fce 200 
+2025-05-03 12:32:58,980 - INFO - Capturing response: https://qxbroker.com/trade-room/react/pendingTrades.css?h=c2595566326ff2ad41f9 200 
+2025-05-03 12:32:58,985 - INFO - Capturing response: https://qxbroker.com/trade-room/react/trades.js?h=0683cfb80dfa0a45d073 200 
+2025-05-03 12:32:58,993 - INFO - Capturing response: https://qxbroker.com/trade-room/react/analytics.js?h=53def3a8509554490a89 200 
+2025-05-03 12:32:59,067 - INFO - Capturing response: https://qxbroker.com/trade-room/react/trades.css?h=26837506d583295c606a 200 
+2025-05-03 12:32:59,069 - INFO - Capturing response: https://qxbroker.com/trade-room/react/account.js?h=b82757040aca46fe0ada 200 
+2025-05-03 12:32:59,072 - INFO - Capturing response: https://qxbroker.com/trade-room/react/analytics.css?h=b3f08bb2c4bb735a27f1 200 
+2025-05-03 12:32:59,095 - INFO - Capturing response: https://qxbroker.com/translate/en.json 200 
+2025-05-03 12:32:59,097 - INFO - Capturing request: https://qxbroker.com/trade-room/react/chart.css?h=8d0db4ed182cf7e9c6e3
+2025-05-03 12:32:59,112 - INFO - Capturing request: https://qxbroker.com/trade-room/react/chart.js?h=aa7ff60c2290b2cc9fce
+2025-05-03 12:32:59,120 - INFO - Capturing request: https://sessions.bugsnag.com/
+2025-05-03 12:32:59,152 - INFO - Capturing request: https://sessions.bugsnag.com/
+2025-05-03 12:32:59,155 - INFO - Capturing response: https://qxbroker.com/trade-room/react/chart.js?h=aa7ff60c2290b2cc9fce 200 
+2025-05-03 12:32:59,207 - INFO - Capturing response: https://qxbroker.com/trade-room/react/undefined.css?h=undefined 404 
+2025-05-03 12:32:59,221 - INFO - Capturing request: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg
+2025-05-03 12:32:59,223 - INFO - Capturing request: https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2
+2025-05-03 12:32:59,238 - INFO - Capturing response: https://qxbroker.com/trade-room/react/chart.css?h=8d0db4ed182cf7e9c6e3 200 
+2025-05-03 12:32:59,251 - INFO - Capturing response: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg 200 
+2025-05-03 12:32:59,296 - INFO - Capturing response: https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2 200 
+2025-05-03 12:32:59,383 - INFO - Capturing response: https://sessions.bugsnag.com/ 202 
+2025-05-03 12:32:59,531 - INFO - Capturing response: https://sessions.bugsnag.com/ 202 
+2025-05-03 12:32:59,548 - INFO - Capturing request: https://qxbroker.com/profile/images/spritemap.svg
+2025-05-03 12:32:59,549 - INFO - Capturing request: https://qxbroker.com/api/v1/cabinets/trades/settings/high-low
+2025-05-03 12:32:59,563 - INFO - Capturing request: https://qxbroker.com/api/v1/cabinets/digest
+2025-05-03 12:32:59,814 - INFO - Capturing response: https://qxbroker.com/profile/images/spritemap.svg 200 
+2025-05-03 12:32:59,824 - INFO - Capturing response: https://qxbroker.com/api/v1/cabinets/digest 200 
+2025-05-03 12:32:59,909 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:32:59,915 - INFO - Capturing response: https://qxbroker.com/api/v1/cabinets/trades/settings/high-low 200 
+2025-05-03 12:33:00,016 - INFO - Capturing request: https://qxbroker.com/profile/images/favicon.png
+2025-05-03 12:33:00,032 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:33:00,048 - INFO - Capturing response: https://qxbroker.com/profile/images/favicon.png 200 
+2025-05-03 12:33:00,099 - INFO - Capturing request: https://passwordsleakcheck-pa.googleapis.com/v1/leaks:lookupSingle
+2025-05-03 12:33:00,164 - INFO - Capturing request: https://qxbroker.com/profile/favicons/favicon.ico
+2025-05-03 12:33:00,184 - INFO - Capturing response: https://passwordsleakcheck-pa.googleapis.com/v1/leaks:lookupSingle 200 
+2025-05-03 12:33:00,298 - INFO - Capturing response: https://qxbroker.com/profile/favicons/favicon.ico 200 
+2025-05-03 12:33:03,603 - INFO - Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746253978453&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1258501141.1746253968&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEAAAAQ&_s=2&sid=1746253968&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dt=Quotex%3A%20An%20innovative%20platform%20for%20online%20investment&en=scroll&epn.percent_scrolled=90&_et=5&tfd=7003
+2025-05-03 12:33:03,685 - INFO - Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746253978453&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1258501141.1746253968&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEAAAAQ&_s=2&sid=1746253968&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dt=Quotex%3A%20An%20innovative%20platform%20for%20online%20investment&en=scroll&epn.percent_scrolled=90&_et=5&tfd=7003 204 
+2025-05-03 12:33:07,407 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2 200 
+2025-05-03 12:33:09,597 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2 200 
+2025-05-03 12:33:10,501 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2 200 
+2025-05-03 12:33:10,564 - INFO - 127.0.0.1:9816: ProtocolException("Error in HTTP connection: Http2ZombieException('Connection or stream already dead: 1746253990.5646925, False')")
+2025-05-03 12:33:10,904 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2 200 
+2025-05-03 12:33:10,964 - INFO - 127.0.0.1:9816: ProtocolException("Error in HTTP connection: Http2ZombieException('Connection or stream already dead: 1746253990.9632812, False')")
+2025-05-03 12:33:11,563 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2 200 
+2025-05-03 12:33:16,131 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+2025-05-03 12:33:17,180 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+2025-05-03 12:33:17,579 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST 200 
+2025-05-03 12:33:18,182 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST 200 
+2025-05-03 12:33:18,234 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST 200 
+2025-05-03 12:33:18,330 - INFO - 127.0.0.1:9816: ProtocolException("Error in HTTP connection: Http2ZombieException('Connection or stream already dead: 1746253998.330165, False')")
+2025-05-03 12:33:18,374 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+2025-05-03 12:33:18,380 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+2025-05-03 12:33:18,446 - INFO - 127.0.0.1:9816: ProtocolException("Error in HTTP connection: Http2ZombieException('Connection or stream already dead: 1746253998.4466512, False')")
+2025-05-03 12:33:18,454 - INFO - 127.0.0.1:9816: ProtocolException("Error in HTTP connection: Http2ZombieException('Connection or stream already dead: 1746253998.4541764, False')")
+2025-05-03 12:33:18,518 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+2025-05-03 12:33:18,537 - INFO - 127.0.0.1:9816: ProtocolException("Error in HTTP connection: Http2ZombieException('Connection or stream already dead: 1746253998.5375173, False')")
+2025-05-03 12:33:18,544 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST 200 
+2025-05-03 12:33:18,656 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST 200 
+2025-05-03 12:33:21,083 - INFO - Capturing request: wss://ws2.qxbroker.com/socket.io/?EIO=3&transport=websocket
+2025-05-03 12:33:21,634 - INFO - Capturing response: https://ws2.qxbroker.com/socket.io/?EIO=3&transport=websocket 101 Switching Protocols
+2025-05-03 12:33:21,634 - INFO - Streaming WebSocket messages between 127.0.0.1:9846 and ws2.qxbroker.com:443
+2025-05-03 12:33:22,942 - INFO - Capturing request: https://qxbroker.com/profile/images/flags.svg
+2025-05-03 12:33:22,973 - INFO - Capturing request: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg
+2025-05-03 12:33:23,124 - INFO - Capturing response: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg 200 
+2025-05-03 12:33:23,186 - INFO - Capturing response: https://qxbroker.com/profile/images/flags.svg 200 
+2025-05-03 12:33:23,304 - INFO - Capturing request: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBIZCSKFNi4ca2f8EgUNkWGVTiH7DAgncy3VWA==?alt=proto
+2025-05-03 12:33:23,428 - INFO - Capturing response: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBIZCSKFNi4ca2f8EgUNkWGVTiH7DAgncy3VWA==?alt=proto 200 
+2025-05-03 12:33:23,638 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-right-dark.svg
+2025-05-03 12:33:23,640 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-right.svg
+2025-05-03 12:33:23,643 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-left-dark.svg
+2025-05-03 12:33:23,644 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-right-black.svg
+2025-05-03 12:33:23,646 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-left.svg
+2025-05-03 12:33:23,648 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-left-black.svg
+2025-05-03 12:33:23,678 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-right-black.svg 200 
+2025-05-03 12:33:23,684 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-right.svg 200 
+2025-05-03 12:33:23,687 - INFO - Capturing request: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBInCbTTW7SjlCYbEgUNWDF-pxIFDZFhlU4SBQ2RYZVOITiCCG_u7KK-?alt=proto
+2025-05-03 12:33:23,691 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-left.svg 200 
+2025-05-03 12:33:23,693 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-left-black.svg 200 
+2025-05-03 12:33:23,781 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-right-dark.svg 200 
+2025-05-03 12:33:23,813 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-left-dark.svg 200 
+2025-05-03 12:33:23,921 - INFO - Capturing response: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBInCbTTW7SjlCYbEgUNWDF-pxIFDZFhlU4SBQ2RYZVOITiCCG_u7KK-?alt=proto 200 
+2025-05-03 12:33:25,704 - INFO - Capturing request: https://qxbroker.com/trade-room/images/ring_dark.svg
+2025-05-03 12:33:25,847 - INFO - Capturing response: https://qxbroker.com/trade-room/images/ring_dark.svg 200 
+2025-05-03 12:33:30,753 - INFO - Capturing request: https://update.googleapis.com/service/update2/json?cup2key=15:DhFC3VAkcqsIo1w9IgrohwoyQRf-OocdsySkL9fgWEI&cup2hreq=adc10a82f08d39defec1a002dec61fe9acf6bda36a5ca9079c79998082950d3b
+2025-05-03 12:33:31,142 - INFO - Capturing response: https://update.googleapis.com/service/update2/json?cup2key=15:DhFC3VAkcqsIo1w9IgrohwoyQRf-OocdsySkL9fgWEI&cup2hreq=adc10a82f08d39defec1a002dec61fe9acf6bda36a5ca9079c79998082950d3b 200 
+2025-05-03 12:33:33,561 - INFO - Capturing request: https://clientservices.googleapis.com/uma/v2
+2025-05-03 12:33:34,082 - INFO - Capturing response: https://clientservices.googleapis.com/uma/v2 200 
+2025-05-03 12:33:47,427 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:33:47,660 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:33:56,576 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:34:08,022 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:34:08,391 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:34:12,482 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:34:12,725 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:34:20,878 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:34:21,240 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:34:22,607 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:34:33,533 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:34:33,773 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:34:37,823 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:34:38,076 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:34:41,523 - INFO - Capturing request: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBIuCa8O4qtUfO_dEgUNkWGVThIFDa4mQbcSBQ2RYZVOEgUNkWGVTiERiuoSncxabw==?alt=proto
+2025-05-03 12:34:41,755 - INFO - Capturing response: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBIuCa8O4qtUfO_dEgUNkWGVThIFDa4mQbcSBQ2RYZVOEgUNkWGVTiERiuoSncxabw==?alt=proto 200 
+2025-05-03 12:34:41,962 - INFO - Capturing request: https://beacons.gcp.gvt2.com/domainreliability/upload
+2025-05-03 12:34:42,139 - INFO - Capturing response: https://beacons.gcp.gvt2.com/domainreliability/upload 200 
+2025-05-03 12:34:43,323 - INFO - Capturing request: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg
+2025-05-03 12:34:43,473 - INFO - Capturing response: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg 200 
+2025-05-03 12:34:46,206 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:34:46,456 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:34:48,644 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:34:50,405 - INFO - tearing down on exception 
+2025-05-03 12:34:54,655 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D40014C9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7ffb809bfd0514759c0cd9f0c0cb59f5
+2025-05-03 12:34:58,723 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D418EE7200>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7ffb809bfd0514759c0cd9f0c0cb59f5
+2025-05-03 12:35:02,771 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D418EE48C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7ffb809bfd0514759c0cd9f0c0cb59f5
+2025-05-03 12:35:11,107 - INFO - Using default request storage
+2025-05-03 12:35:11,123 - INFO - Created proxy listening on 127.0.0.1:9934
+2025-05-03 12:35:12,245 - INFO - Capturing request: http://clients2.google.com/time/1/current?cup2key=9:ZzSxeADDzDdafAM86MnEWWAww1P7D2kprGEbPUgG7B0&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-05-03 12:35:12,351 - INFO - Capturing response: http://clients2.google.com/time/1/current?cup2key=9:ZzSxeADDzDdafAM86MnEWWAww1P7D2kprGEbPUgG7B0&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 200 OK
+2025-05-03 12:35:12,503 - INFO - Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+2025-05-03 12:35:12,686 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:35:12,757 - INFO - Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+2025-05-03 12:35:12,857 - INFO - Capturing response: https://qxbroker.com/en/trade 403 
+2025-05-03 12:35:12,974 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:35:13,119 - INFO - Capturing response: https://qxbroker.com/en/trade 403 
+2025-05-03 12:35:13,270 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=939dbcae6856a48e
+2025-05-03 12:35:13,315 - INFO - Capturing request: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+2025-05-03 12:35:13,410 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=939dbcae6856a48e 200 
+2025-05-03 12:35:13,549 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:35:13,560 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1162523199:1746252861:V9Ol_qt78IhWLkTXm2iiaiF-hzb9_44ODdBugl0JyRY/939dbcae6856a48e/uQx8J2MCPl3DB9F_2mdDPFttmefqDrhAcSLa5PNhW_c-1746254113-1.2.1.1-T8.O.atHw_dGPud0DQZdnPiwishK9Uc1EVEgVW1lTKLOmjcUinCfs7dVwE7TeFwg
+2025-05-03 12:35:13,595 - INFO - Capturing request: https://challenges.cloudflare.com/turnstile/v0/g/8b139538fc64/api.js?onload=wSuaP7&render=explicit
+2025-05-03 12:35:13,613 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1162523199:1746252861:V9Ol_qt78IhWLkTXm2iiaiF-hzb9_44ODdBugl0JyRY/939dbcae6856a48e/uQx8J2MCPl3DB9F_2mdDPFttmefqDrhAcSLa5PNhW_c-1746254113-1.2.1.1-T8.O.atHw_dGPud0DQZdnPiwishK9Uc1EVEgVW1lTKLOmjcUinCfs7dVwE7TeFwg 200 
+2025-05-03 12:35:13,691 - INFO - Capturing response: https://qxbroker.com/favicon.ico 403 
+2025-05-03 12:35:13,739 - INFO - Capturing response: https://challenges.cloudflare.com/turnstile/v0/g/8b139538fc64/api.js?onload=wSuaP7&render=explicit 200 
+2025-05-03 12:35:13,755 - INFO - Capturing response: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015 200 
+2025-05-03 12:35:13,925 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/jfo6c/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/
+2025-05-03 12:35:13,962 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/jfo6c/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/ 200 
+2025-05-03 12:35:14,100 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=939dbcb45a7f4ea3&lang=auto
+2025-05-03 12:35:14,101 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1
+2025-05-03 12:35:14,155 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1 200 
+2025-05-03 12:35:14,256 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=939dbcb45a7f4ea3&lang=auto 200 
+2025-05-03 12:35:14,283 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:35:14,397 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:35:14,424 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/444563807:1746253030:2bz3xvCjbp2rR04DWZ2a-nIYgZa11yogu1nBpShVlHs/939dbcb45a7f4ea3/OY6o6h5Wgqwubl3OwW3Ird6_Hs8lQxwI2SyKu5hlO00-1746254113-1.2.1.1-x9OmT2IHBJtQ1UCsLPTMaHLnPXL16oT53TALiRtguWezAfx8C8WOEC4jxadLLbBU
+2025-05-03 12:35:14,429 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:35:14,554 - INFO - Capturing response: https://qxbroker.com/favicon.ico 403 
+2025-05-03 12:35:14,737 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/444563807:1746253030:2bz3xvCjbp2rR04DWZ2a-nIYgZa11yogu1nBpShVlHs/939dbcb45a7f4ea3/OY6o6h5Wgqwubl3OwW3Ird6_Hs8lQxwI2SyKu5hlO00-1746254113-1.2.1.1-x9OmT2IHBJtQ1UCsLPTMaHLnPXL16oT53TALiRtguWezAfx8C8WOEC4jxadLLbBU 200 
+2025-05-03 12:35:15,972 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/939dbcb45a7f4ea3/1746254114516/uFFniNnzcrOXp5Q
+2025-05-03 12:35:16,000 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/939dbcb45a7f4ea3/1746254114516/uFFniNnzcrOXp5Q 200 
+2025-05-03 12:35:16,603 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/939dbcb45a7f4ea3/1746254114533/5112d74b3c9b71f714ed61156ec927eff81a50a4650367d4c61101b44e98de9a/kRIPs3gf3f7M1q6
+2025-05-03 12:35:16,726 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/939dbcb45a7f4ea3/1746254114533/5112d74b3c9b71f714ed61156ec927eff81a50a4650367d4c61101b44e98de9a/kRIPs3gf3f7M1q6 401 
+2025-05-03 12:35:16,788 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/444563807:1746253030:2bz3xvCjbp2rR04DWZ2a-nIYgZa11yogu1nBpShVlHs/939dbcb45a7f4ea3/OY6o6h5Wgqwubl3OwW3Ird6_Hs8lQxwI2SyKu5hlO00-1746254113-1.2.1.1-x9OmT2IHBJtQ1UCsLPTMaHLnPXL16oT53TALiRtguWezAfx8C8WOEC4jxadLLbBU
+2025-05-03 12:35:16,985 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/444563807:1746253030:2bz3xvCjbp2rR04DWZ2a-nIYgZa11yogu1nBpShVlHs/939dbcb45a7f4ea3/OY6o6h5Wgqwubl3OwW3Ird6_Hs8lQxwI2SyKu5hlO00-1746254113-1.2.1.1-x9OmT2IHBJtQ1UCsLPTMaHLnPXL16oT53TALiRtguWezAfx8C8WOEC4jxadLLbBU 200 
+2025-05-03 12:35:22,268 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE
+2025-05-03 12:35:22,454 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE 200 
+2025-05-03 12:35:22,692 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744643050&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+2025-05-03 12:35:22,694 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+2025-05-03 12:35:22,878 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744643050&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+2025-05-03 12:35:23,080 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY
+2025-05-03 12:35:23,214 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+2025-05-03 12:35:23,422 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2
+2025-05-03 12:35:25,836 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2 200 
+2025-05-03 12:35:26,198 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+2025-05-03 12:35:26,659 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY 200 
+2025-05-03 12:35:26,766 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+2025-05-03 12:35:26,906 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST
+2025-05-03 12:35:26,969 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+2025-05-03 12:35:32,136 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+2025-05-03 12:35:32,136 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST
+2025-05-03 12:35:32,458 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+2025-05-03 12:35:32,537 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/444563807:1746253030:2bz3xvCjbp2rR04DWZ2a-nIYgZa11yogu1nBpShVlHs/939dbcb45a7f4ea3/OY6o6h5Wgqwubl3OwW3Ird6_Hs8lQxwI2SyKu5hlO00-1746254113-1.2.1.1-x9OmT2IHBJtQ1UCsLPTMaHLnPXL16oT53TALiRtguWezAfx8C8WOEC4jxadLLbBU
+2025-05-03 12:35:32,770 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/444563807:1746253030:2bz3xvCjbp2rR04DWZ2a-nIYgZa11yogu1nBpShVlHs/939dbcb45a7f4ea3/OY6o6h5Wgqwubl3OwW3Ird6_Hs8lQxwI2SyKu5hlO00-1746254113-1.2.1.1-x9OmT2IHBJtQ1UCsLPTMaHLnPXL16oT53TALiRtguWezAfx8C8WOEC4jxadLLbBU 200 
+2025-05-03 12:35:32,804 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1162523199:1746252861:V9Ol_qt78IhWLkTXm2iiaiF-hzb9_44ODdBugl0JyRY/939dbcae6856a48e/uQx8J2MCPl3DB9F_2mdDPFttmefqDrhAcSLa5PNhW_c-1746254113-1.2.1.1-T8.O.atHw_dGPud0DQZdnPiwishK9Uc1EVEgVW1lTKLOmjcUinCfs7dVwE7TeFwg
+2025-05-03 12:35:32,952 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1162523199:1746252861:V9Ol_qt78IhWLkTXm2iiaiF-hzb9_44ODdBugl0JyRY/939dbcae6856a48e/uQx8J2MCPl3DB9F_2mdDPFttmefqDrhAcSLa5PNhW_c-1746254113-1.2.1.1-T8.O.atHw_dGPud0DQZdnPiwishK9Uc1EVEgVW1lTKLOmjcUinCfs7dVwE7TeFwg 200 
+2025-05-03 12:35:32,952 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING
+2025-05-03 12:35:33,369 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING 200 
+2025-05-03 12:35:33,369 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST 200 
+2025-05-03 12:35:33,597 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION
+2025-05-03 12:35:34,119 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION 200 
+2025-05-03 12:35:35,086 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:35:35,219 - INFO - Capturing response: https://qxbroker.com/en/trade 403 
+2025-05-03 12:35:35,231 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:35:35,351 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=939dbd389f0ea48e
+2025-05-03 12:35:35,370 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=939dbd389f0ea48e 200 
+2025-05-03 12:35:35,417 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:35:35,528 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/243041268:1746252898:b8kSCdlOZirtlWrcQMi5J-Uk-7d2A7elzG4bjProe-U/939dbd389f0ea48e/4QDanyEQB8itmJGpv5kIm9N5bmvDtJdWqleH43oC_6k-1746254135-1.2.1.1-h55agMacwJ0NYwJot5Y6sXNd8CFW5DwmEdzBlznK8hFAZ7H6IJS8nCGQuidrPBrw
+2025-05-03 12:35:35,551 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:35:35,570 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/243041268:1746252898:b8kSCdlOZirtlWrcQMi5J-Uk-7d2A7elzG4bjProe-U/939dbd389f0ea48e/4QDanyEQB8itmJGpv5kIm9N5bmvDtJdWqleH43oC_6k-1746254135-1.2.1.1-h55agMacwJ0NYwJot5Y6sXNd8CFW5DwmEdzBlznK8hFAZ7H6IJS8nCGQuidrPBrw 200 
+2025-05-03 12:35:35,718 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/tzq1k/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/
+2025-05-03 12:35:35,721 - INFO - Capturing response: https://qxbroker.com/favicon.ico 403 
+2025-05-03 12:35:35,902 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/tzq1k/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/ 200 
+2025-05-03 12:35:36,018 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1
+2025-05-03 12:35:36,034 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=939dbd3c9b2a4ea3&lang=auto
+2025-05-03 12:35:36,150 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1 200 
+2025-05-03 12:35:36,169 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=939dbd3c9b2a4ea3&lang=auto 200 
+2025-05-03 12:35:36,185 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:35:36,301 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:35:36,320 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:35:36,331 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/609647744:1746253075:PsDw7mExiK881mTjTXGXYsoPWDxqepQwkejeygWBj2k/939dbd3c9b2a4ea3/flOnXj9a4t8ToqIz7BS8Vw.AEeeh2t25LT3pEuFwfoU-1746254135-1.2.1.1-kR39ERBaCJAFS6IawRkrW02sBHio8gX58r3piIJRYeZ0rdYZPdAdVU19UFL37vA3
+2025-05-03 12:35:36,437 - INFO - Capturing response: https://qxbroker.com/favicon.ico 403 
+2025-05-03 12:35:36,586 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/609647744:1746253075:PsDw7mExiK881mTjTXGXYsoPWDxqepQwkejeygWBj2k/939dbd3c9b2a4ea3/flOnXj9a4t8ToqIz7BS8Vw.AEeeh2t25LT3pEuFwfoU-1746254135-1.2.1.1-kR39ERBaCJAFS6IawRkrW02sBHio8gX58r3piIJRYeZ0rdYZPdAdVU19UFL37vA3 200 
+2025-05-03 12:35:37,702 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/939dbd3c9b2a4ea3/1746254136407/kp1o00VOAy4EjZU
+2025-05-03 12:35:37,835 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/939dbd3c9b2a4ea3/1746254136407/kp1o00VOAy4EjZU 200 
+2025-05-03 12:35:38,034 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/939dbd3c9b2a4ea3/1746254136409/8410877022107a1248406c56a61d56e8b5ef5e8a272898c639bf922933025274/dD4DidRKPvrITRk
+2025-05-03 12:35:38,185 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/939dbd3c9b2a4ea3/1746254136409/8410877022107a1248406c56a61d56e8b5ef5e8a272898c639bf922933025274/dD4DidRKPvrITRk 401 
+2025-05-03 12:35:38,269 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+2025-05-03 12:35:38,286 - INFO - 127.0.0.1:9966: ProtocolException("Error in HTTP connection: Http2ZombieException('Connection or stream already dead: 1746254138.2866428, False')")
+2025-05-03 12:35:38,596 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST 200 
+2025-05-03 12:35:38,638 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/609647744:1746253075:PsDw7mExiK881mTjTXGXYsoPWDxqepQwkejeygWBj2k/939dbd3c9b2a4ea3/flOnXj9a4t8ToqIz7BS8Vw.AEeeh2t25LT3pEuFwfoU-1746254135-1.2.1.1-kR39ERBaCJAFS6IawRkrW02sBHio8gX58r3piIJRYeZ0rdYZPdAdVU19UFL37vA3
+2025-05-03 12:35:38,705 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/609647744:1746253075:PsDw7mExiK881mTjTXGXYsoPWDxqepQwkejeygWBj2k/939dbd3c9b2a4ea3/flOnXj9a4t8ToqIz7BS8Vw.AEeeh2t25LT3pEuFwfoU-1746254135-1.2.1.1-kR39ERBaCJAFS6IawRkrW02sBHio8gX58r3piIJRYeZ0rdYZPdAdVU19UFL37vA3 200 
+2025-05-03 12:35:40,194 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/609647744:1746253075:PsDw7mExiK881mTjTXGXYsoPWDxqepQwkejeygWBj2k/939dbd3c9b2a4ea3/flOnXj9a4t8ToqIz7BS8Vw.AEeeh2t25LT3pEuFwfoU-1746254135-1.2.1.1-kR39ERBaCJAFS6IawRkrW02sBHio8gX58r3piIJRYeZ0rdYZPdAdVU19UFL37vA3
+2025-05-03 12:35:40,402 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/609647744:1746253075:PsDw7mExiK881mTjTXGXYsoPWDxqepQwkejeygWBj2k/939dbd3c9b2a4ea3/flOnXj9a4t8ToqIz7BS8Vw.AEeeh2t25LT3pEuFwfoU-1746254135-1.2.1.1-kR39ERBaCJAFS6IawRkrW02sBHio8gX58r3piIJRYeZ0rdYZPdAdVU19UFL37vA3 200 
+2025-05-03 12:35:40,426 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/243041268:1746252898:b8kSCdlOZirtlWrcQMi5J-Uk-7d2A7elzG4bjProe-U/939dbd389f0ea48e/4QDanyEQB8itmJGpv5kIm9N5bmvDtJdWqleH43oC_6k-1746254135-1.2.1.1-h55agMacwJ0NYwJot5Y6sXNd8CFW5DwmEdzBlznK8hFAZ7H6IJS8nCGQuidrPBrw
+2025-05-03 12:35:40,835 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/243041268:1746252898:b8kSCdlOZirtlWrcQMi5J-Uk-7d2A7elzG4bjProe-U/939dbd389f0ea48e/4QDanyEQB8itmJGpv5kIm9N5bmvDtJdWqleH43oC_6k-1746254135-1.2.1.1-h55agMacwJ0NYwJot5Y6sXNd8CFW5DwmEdzBlznK8hFAZ7H6IJS8nCGQuidrPBrw 200 
+2025-05-03 12:35:40,859 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:35:40,969 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:35:40,985 - INFO - Capturing response: https://qxbroker.com/favicon.ico 200 
+2025-05-03 12:35:41,253 - INFO - Capturing response: https://qxbroker.com/en/trade 200 
+2025-05-03 12:35:41,292 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:35:41,383 - INFO - Capturing request: https://qxbroker.com/site/css/main.min.css?8
+2025-05-03 12:35:41,398 - INFO - Capturing request: https://qxbroker.com/site/img/playmarket.svg
+2025-05-03 12:35:41,401 - INFO - Capturing request: https://qxbroker.com/site/img/quotex_logo-white.svg
+2025-05-03 12:35:41,402 - INFO - Capturing request: https://qxbroker.com/css/debugbar/debug-bar-decorator.css
+2025-05-03 12:35:41,435 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:35:41,442 - INFO - Capturing response: https://qxbroker.com/site/img/playmarket.svg 200 
+2025-05-03 12:35:41,450 - INFO - Capturing response: https://qxbroker.com/site/img/quotex_logo-white.svg 200 
+2025-05-03 12:35:41,543 - INFO - Capturing response: https://qxbroker.com/site/css/main.min.css?8 200 
+2025-05-03 12:35:41,552 - INFO - Capturing response: https://qxbroker.com/css/debugbar/debug-bar-decorator.css 200 
+2025-05-03 12:35:41,570 - INFO - Capturing request: https://unpkg.com/imask
+2025-05-03 12:35:41,571 - INFO - Capturing request: https://qxbroker.com/site/js/main.min.js?7
+2025-05-03 12:35:41,603 - INFO - Capturing response: https://qxbroker.com/site/js/main.min.js?7 200 
+2025-05-03 12:35:41,731 - INFO - Capturing request: https://www.free-kassa.ru/img/fk_btn/17.png
+2025-05-03 12:35:41,848 - INFO - Capturing response: https://unpkg.com/imask 302 
+2025-05-03 12:35:41,968 - INFO - Capturing request: https://unpkg.com/imask@7.6.1/dist/imask.js
+2025-05-03 12:35:42,000 - INFO - Capturing response: https://www.free-kassa.ru/img/fk_btn/17.png 301 
+2025-05-03 12:35:42,061 - INFO - Capturing response: https://unpkg.com/imask@7.6.1/dist/imask.js 200 
+2025-05-03 12:35:42,185 - INFO - Capturing request: https://qxbroker.com/profile/images/spritemap.svg
+2025-05-03 12:35:42,185 - INFO - Capturing request: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+2025-05-03 12:35:42,202 - INFO - Capturing request: https://qxbroker.com/site/img/icons/facebook.svg
+2025-05-03 12:35:42,202 - INFO - Capturing request: https://qxbroker.com/site/img/quotex_logo.svg
+2025-05-03 12:35:42,202 - INFO - Capturing request: https://qxbroker.com/site/img/about-us/bg-sing-form.png
+2025-05-03 12:35:42,202 - INFO - Capturing request: https://qxbroker.com/site/img/icons/facebook-login.svg
+2025-05-03 12:35:42,202 - INFO - Capturing request: https://qxbroker.com/site/img/icons/google.svg
+2025-05-03 12:35:42,218 - INFO - Capturing request: https://qxbroker.com/site/img/icons/instagram.svg
+2025-05-03 12:35:42,218 - INFO - Capturing request: https://qxbroker.com/site/img/icons/telegram.svg
+2025-05-03 12:35:42,257 - INFO - Capturing response: https://qxbroker.com/site/img/icons/google.svg 200 
+2025-05-03 12:35:42,267 - INFO - Capturing response: https://qxbroker.com/site/img/about-us/bg-sing-form.png 200 
+2025-05-03 12:35:42,270 - INFO - Capturing request: https://qxbroker.com/fonts/Roboto-Medium.ttf
+2025-05-03 12:35:42,273 - INFO - Capturing request: https://qxbroker.com/fonts/Roboto-Regular.ttf
+2025-05-03 12:35:42,276 - INFO - Capturing request: https://qxbroker.com/fonts/Roboto-Bold.ttf
+2025-05-03 12:35:42,278 - INFO - Capturing request: https://qxbroker.com/site/img/main_bg.mp4
+2025-05-03 12:35:42,278 - INFO - Capturing request: https://qxbroker.com/fonts/Roboto-Black.ttf
+2025-05-03 12:35:42,285 - INFO - Capturing response: https://qxbroker.com/site/img/icons/telegram.svg 200 
+2025-05-03 12:35:42,334 - INFO - Capturing response: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015 200 
+2025-05-03 12:35:42,352 - INFO - Capturing request: https://freekassa.net/
+2025-05-03 12:35:42,368 - INFO - Capturing response: https://qxbroker.com/site/img/icons/facebook.svg 200 
+2025-05-03 12:35:42,371 - INFO - Capturing response: https://qxbroker.com/site/img/quotex_logo.svg 200 
+2025-05-03 12:35:42,375 - INFO - Capturing response: https://qxbroker.com/site/img/icons/facebook-login.svg 200 
+2025-05-03 12:35:42,399 - INFO - Capturing response: https://qxbroker.com/site/img/icons/instagram.svg 200 
+2025-05-03 12:35:42,426 - INFO - Capturing request: https://www.googletagmanager.com/gtag/js?id=G-L4T5GBPFHJ
+2025-05-03 12:35:42,458 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/scripts/jsd/main.js
+2025-05-03 12:35:42,474 - INFO - Capturing response: https://qxbroker.com/fonts/Roboto-Medium.ttf 200 
+2025-05-03 12:35:42,518 - INFO - Capturing response: https://qxbroker.com/fonts/Roboto-Black.ttf 200 
+2025-05-03 12:35:42,535 - INFO - Capturing response: https://qxbroker.com/fonts/Roboto-Bold.ttf 200 
+2025-05-03 12:35:42,551 - INFO - Capturing response: https://qxbroker.com/fonts/Roboto-Regular.ttf 200 
+2025-05-03 12:35:42,613 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/scripts/jsd/main.js 302 
+2025-05-03 12:35:42,614 - INFO - Capturing request: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBI1CStNkJNVmcihEgUNkVN0rBIFDb5Qm4ESBQ2uXsj2EgUNg6hbPRIFDc5BTHohlvZx0S5fZF8SIAkw-Y7WWs-_uhIFDYOoWz0SBQ3OQUx6Ic6yPEc8k8sI?alt=proto
+2025-05-03 12:35:42,626 - INFO - Capturing response: https://www.googletagmanager.com/gtag/js?id=G-L4T5GBPFHJ 200 
+2025-05-03 12:35:42,717 - INFO - Capturing response: https://qxbroker.com/profile/images/spritemap.svg 200 
+2025-05-03 12:35:42,735 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/8b139538fc64/main.js?
+2025-05-03 12:35:42,739 - INFO - Capturing response: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBI1CStNkJNVmcihEgUNkVN0rBIFDb5Qm4ESBQ2uXsj2EgUNg6hbPRIFDc5BTHohlvZx0S5fZF8SIAkw-Y7WWs-_uhIFDYOoWz0SBQ3OQUx6Ic6yPEc8k8sI?alt=proto 200 
+2025-05-03 12:35:42,785 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/8b139538fc64/main.js? 200 
+2025-05-03 12:35:42,842 - INFO - Capturing response: https://qxbroker.com/site/img/main_bg.mp4 206 
+2025-05-03 12:35:42,902 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/jsd/r/0.8125008275460451:1746252816:gOZujeBjFFI68C129uDa1PgrF2OqYT86BkCkERzAcTQ/939dbd5cbd35a48e
+2025-05-03 12:35:42,935 - INFO - Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746254142071&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116025~103200001~103233427~103251618~103251620&cid=489765283.1746254143&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1746254142&sct=1&seg=0&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3DmUtMVuHLZLpFKJzZ8Q.Xexvcx7K5Da7Dd8TbhNGVe7M-1746254135-1.0.1.1-hMy6wurcULONki9duEuLKXc6TJQqvqGn2TDd19DEpr8&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1840
+2025-05-03 12:35:43,016 - INFO - Capturing request: https://qxbroker.com/site/img/main_bg.mp4
+2025-05-03 12:35:43,064 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/jsd/r/0.8125008275460451:1746252816:gOZujeBjFFI68C129uDa1PgrF2OqYT86BkCkERzAcTQ/939dbd5cbd35a48e 200 
+2025-05-03 12:35:43,116 - INFO - Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746254142071&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116025~103200001~103233427~103251618~103251620&cid=489765283.1746254143&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1746254142&sct=1&seg=0&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3DmUtMVuHLZLpFKJzZ8Q.Xexvcx7K5Da7Dd8TbhNGVe7M-1746254135-1.0.1.1-hMy6wurcULONki9duEuLKXc6TJQqvqGn2TDd19DEpr8&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1840 204 
+2025-05-03 12:35:43,160 - INFO - Capturing response: https://qxbroker.com/site/img/main_bg.mp4 206 
+2025-05-03 12:35:43,353 - INFO - Capturing response: https://freekassa.net/ 200 
+2025-05-03 12:35:56,836 - INFO - Capturing request: https://qxbroker.com/en/sign-in/
+2025-05-03 12:35:57,332 - INFO - Capturing response: https://qxbroker.com/en/sign-in/ 302 
+2025-05-03 12:35:57,450 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:35:57,850 - INFO - Capturing response: https://qxbroker.com/en/trade 200 
+2025-05-03 12:35:57,868 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:35:57,875 - INFO - Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746254142071&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116025~103200001~103233427~103251618~103251620&cid=489765283.1746254143&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEEAAAQ&sid=1746254142&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3DmUtMVuHLZLpFKJzZ8Q.Xexvcx7K5Da7Dd8TbhNGVe7M-1746254135-1.0.1.1-hMy6wurcULONki9duEuLKXc6TJQqvqGn2TDd19DEpr8&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&_s=2&tfd=17011
+2025-05-03 12:35:57,978 - INFO - Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746254142071&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116025~103200001~103233427~103251618~103251620&cid=489765283.1746254143&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEEAAAQ&sid=1746254142&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3DmUtMVuHLZLpFKJzZ8Q.Xexvcx7K5Da7Dd8TbhNGVe7M-1746254135-1.0.1.1-hMy6wurcULONki9duEuLKXc6TJQqvqGn2TDd19DEpr8&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&_s=2&tfd=17011 204 
+2025-05-03 12:35:57,996 - INFO - Capturing request: https://qxbroker.com/trade-room/react/vendor.css?v=1746113426
+2025-05-03 12:35:57,998 - INFO - Capturing request: https://qxbroker.com/profile/css/custom.css?v=1723031390
+2025-05-03 12:35:58,001 - INFO - Capturing request: https://qxbroker.com/trade-room/react/app.css?v=1746113426
+2025-05-03 12:35:58,003 - INFO - Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746254142071&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116025~103200001~103233427~103251618~103251620&cid=489765283.1746254143&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=3&sid=1746254142&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3DmUtMVuHLZLpFKJzZ8Q.Xexvcx7K5Da7Dd8TbhNGVe7M-1746254135-1.0.1.1-hMy6wurcULONki9duEuLKXc6TJQqvqGn2TDd19DEpr8&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&en=user_engagement&_et=1030&tfd=17012
+2025-05-03 12:35:58,015 - INFO - Capturing request: https://qxbroker.com/trade-room/react/app.js?v=1746113426
+2025-05-03 12:35:58,017 - INFO - Capturing request: https://qxbroker.com/trade-room/react/vendor.js?v=1746113426
+2025-05-03 12:35:58,032 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:35:58,072 - INFO - Capturing response: https://qxbroker.com/trade-room/react/app.css?v=1746113426 200 
+2025-05-03 12:35:58,169 - INFO - Capturing response: https://qxbroker.com/trade-room/react/vendor.css?v=1746113426 200 
+2025-05-03 12:35:58,184 - INFO - Capturing response: https://qxbroker.com/profile/css/custom.css?v=1723031390 200 
+2025-05-03 12:35:58,189 - INFO - Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746254142071&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116025~103200001~103233427~103251618~103251620&cid=489765283.1746254143&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=3&sid=1746254142&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3DmUtMVuHLZLpFKJzZ8Q.Xexvcx7K5Da7Dd8TbhNGVe7M-1746254135-1.0.1.1-hMy6wurcULONki9duEuLKXc6TJQqvqGn2TDd19DEpr8&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&en=user_engagement&_et=1030&tfd=17012 204 
+2025-05-03 12:35:58,201 - INFO - Capturing response: https://qxbroker.com/trade-room/react/app.js?v=1746113426 200 
+2025-05-03 12:35:58,334 - INFO - Capturing request: https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap
+2025-05-03 12:35:58,336 - INFO - Capturing request: https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic
+2025-05-03 12:35:58,435 - INFO - Capturing response: https://qxbroker.com/trade-room/react/vendor.js?v=1746113426 200 
+2025-05-03 12:35:58,448 - INFO - Capturing response: https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic 200 
+2025-05-03 12:35:58,519 - INFO - Capturing response: https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap 200 
+2025-05-03 12:35:58,660 - INFO - Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746254158528&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116025~103200001~103233427~103251618~103251620&cid=489765283.1746254143&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=1&sid=1746254142&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dt=Quotex%3A%20An%20innovative%20platform%20for%20online%20investment&en=page_view&_ee=1&tfd=1723
+2025-05-03 12:35:58,728 - INFO - Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746254158528&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116025~103200001~103233427~103251618~103251620&cid=489765283.1746254143&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=1&sid=1746254142&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dt=Quotex%3A%20An%20innovative%20platform%20for%20online%20investment&en=page_view&_ee=1&tfd=1723 204 
+2025-05-03 12:35:58,862 - INFO - Capturing request: https://qxbroker.com/trade-room/react/tournament.css?h=e324a71df7ee12575212
+2025-05-03 12:35:58,864 - INFO - Capturing request: https://qxbroker.com/trade-room/react/tournament.js?h=ce59f332ac364b3a701a
+2025-05-03 12:35:58,869 - INFO - Capturing request: https://qxbroker.com/trade-room/react/undefined.css?h=undefined
+2025-05-03 12:35:58,877 - INFO - Capturing request: https://qxbroker.com/trade-room/react/transactions.js?h=94b07d8ae3c3250888d1
+2025-05-03 12:35:58,878 - INFO - Capturing request: https://qxbroker.com/trade-room/react/tournaments.js?h=966d3efbbbebfee0ac89
+2025-05-03 12:35:58,880 - INFO - Capturing request: https://qxbroker.com/trade-room/react/market.css?h=fa6ee23da14792218280
+2025-05-03 12:35:58,883 - INFO - Capturing request: https://qxbroker.com/trade-room/react/tournaments.css?h=1718161d33a93b493363
+2025-05-03 12:35:58,886 - INFO - Capturing request: https://qxbroker.com/trade-room/react/transactions.css?h=d8f43464fe4837ce8cb2
+2025-05-03 12:35:58,888 - INFO - Capturing request: https://qxbroker.com/trade-room/react/market.js?h=d78fae39538eb1f5db2f
+2025-05-03 12:35:58,894 - INFO - Capturing request: https://qxbroker.com/trade-room/react/chart.js?h=aa7ff60c2290b2cc9fce
+2025-05-03 12:35:58,895 - INFO - Capturing request: https://qxbroker.com/trade-room/react/pendingTrades.css?h=c2595566326ff2ad41f9
+2025-05-03 12:35:58,897 - INFO - Capturing request: https://qxbroker.com/trade-room/react/chart.css?h=8d0db4ed182cf7e9c6e3
+2025-05-03 12:35:58,902 - INFO - Capturing request: https://qxbroker.com/trade-room/react/trades.js?h=0683cfb80dfa0a45d073
+2025-05-03 12:35:58,904 - INFO - Capturing request: https://qxbroker.com/trade-room/react/pendingTrades.js?h=48bd086594766d29d077
+2025-05-03 12:35:58,906 - INFO - Capturing request: https://qxbroker.com/trade-room/react/trades.css?h=26837506d583295c606a
+2025-05-03 12:35:58,910 - INFO - Capturing request: https://qxbroker.com/trade-room/react/account.css?h=2270a8e2d2737b25afa6
+2025-05-03 12:35:58,913 - INFO - Capturing request: https://qxbroker.com/trade-room/react/analytics.css?h=b3f08bb2c4bb735a27f1
+2025-05-03 12:35:58,918 - INFO - Capturing request: https://qxbroker.com/translate/en.json
+2025-05-03 12:35:58,920 - INFO - Capturing request: https://qxbroker.com/trade-room/react/analytics.js?h=53def3a8509554490a89
+2025-05-03 12:35:58,923 - INFO - Capturing request: https://qxbroker.com/trade-room/react/account.js?h=b82757040aca46fe0ada
+2025-05-03 12:35:58,930 - INFO - Capturing response: https://qxbroker.com/trade-room/react/tournament.css?h=e324a71df7ee12575212 200 
+2025-05-03 12:35:58,938 - INFO - Capturing response: https://qxbroker.com/trade-room/react/undefined.css?h=undefined 404 
+2025-05-03 12:35:58,944 - INFO - Capturing response: https://qxbroker.com/trade-room/react/transactions.js?h=94b07d8ae3c3250888d1 200 
+2025-05-03 12:35:58,953 - INFO - Capturing response: https://qxbroker.com/trade-room/react/market.css?h=fa6ee23da14792218280 200 
+2025-05-03 12:35:58,962 - INFO - Capturing response: https://qxbroker.com/trade-room/react/transactions.css?h=d8f43464fe4837ce8cb2 200 
+2025-05-03 12:35:58,968 - INFO - Capturing response: https://qxbroker.com/trade-room/react/tournament.js?h=ce59f332ac364b3a701a 200 
+2025-05-03 12:35:58,974 - INFO - Capturing response: https://qxbroker.com/trade-room/react/tournaments.css?h=1718161d33a93b493363 200 
+2025-05-03 12:35:58,980 - INFO - Capturing response: https://qxbroker.com/trade-room/react/chart.js?h=aa7ff60c2290b2cc9fce 200 
+2025-05-03 12:35:58,984 - INFO - Capturing response: https://qxbroker.com/trade-room/react/tournaments.js?h=966d3efbbbebfee0ac89 200 
+2025-05-03 12:35:58,995 - INFO - Capturing response: https://qxbroker.com/trade-room/react/trades.js?h=0683cfb80dfa0a45d073 200 
+2025-05-03 12:35:58,998 - INFO - Capturing response: https://qxbroker.com/trade-room/react/market.js?h=d78fae39538eb1f5db2f 200 
+2025-05-03 12:35:59,003 - INFO - Capturing response: https://qxbroker.com/trade-room/react/pendingTrades.css?h=c2595566326ff2ad41f9 200 
+2025-05-03 12:35:59,009 - INFO - Capturing response: https://qxbroker.com/trade-room/react/pendingTrades.js?h=48bd086594766d29d077 200 
+2025-05-03 12:35:59,012 - INFO - Capturing response: https://qxbroker.com/trade-room/react/account.css?h=2270a8e2d2737b25afa6 200 
+2025-05-03 12:35:59,015 - INFO - Capturing response: https://qxbroker.com/trade-room/react/analytics.js?h=53def3a8509554490a89 200 
+2025-05-03 12:35:59,019 - INFO - Capturing response: https://qxbroker.com/trade-room/react/analytics.css?h=b3f08bb2c4bb735a27f1 200 
+2025-05-03 12:35:59,021 - INFO - Capturing response: https://qxbroker.com/trade-room/react/chart.css?h=8d0db4ed182cf7e9c6e3 200 
+2025-05-03 12:35:59,025 - INFO - Capturing response: https://qxbroker.com/trade-room/react/trades.css?h=26837506d583295c606a 200 
+2025-05-03 12:35:59,033 - INFO - Capturing response: https://qxbroker.com/trade-room/react/account.js?h=b82757040aca46fe0ada 200 
+2025-05-03 12:35:59,108 - INFO - Capturing request: https://qxbroker.com/trade-room/react/chart.js?h=aa7ff60c2290b2cc9fce
+2025-05-03 12:35:59,140 - INFO - Capturing request: https://qxbroker.com/trade-room/react/chart.css?h=8d0db4ed182cf7e9c6e3
+2025-05-03 12:35:59,190 - INFO - Capturing request: https://sessions.bugsnag.com/
+2025-05-03 12:35:59,237 - INFO - Capturing request: https://sessions.bugsnag.com/
+2025-05-03 12:35:59,249 - INFO - Capturing response: https://qxbroker.com/trade-room/react/chart.js?h=aa7ff60c2290b2cc9fce 200 
+2025-05-03 12:35:59,280 - INFO - Capturing response: https://qxbroker.com/translate/en.json 200 
+2025-05-03 12:35:59,310 - INFO - Capturing response: https://qxbroker.com/trade-room/react/chart.css?h=8d0db4ed182cf7e9c6e3 200 
+2025-05-03 12:35:59,406 - INFO - Capturing request: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg
+2025-05-03 12:35:59,421 - INFO - Capturing request: https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2
+2025-05-03 12:35:59,502 - INFO - Capturing response: https://sessions.bugsnag.com/ 202 
+2025-05-03 12:35:59,551 - INFO - Capturing response: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg 200 
+2025-05-03 12:35:59,567 - INFO - Capturing response: https://sessions.bugsnag.com/ 202 
+2025-05-03 12:35:59,597 - INFO - Capturing request: https://qxbroker.com/profile/images/spritemap.svg
+2025-05-03 12:35:59,613 - INFO - Capturing response: https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2 200 
+2025-05-03 12:35:59,614 - INFO - Capturing request: https://qxbroker.com/api/v1/cabinets/trades/settings/high-low
+2025-05-03 12:35:59,617 - INFO - Capturing request: https://qxbroker.com/api/v1/cabinets/digest
+2025-05-03 12:35:59,857 - INFO - Capturing response: https://qxbroker.com/api/v1/cabinets/trades/settings/high-low 200 
+2025-05-03 12:35:59,867 - INFO - Capturing response: https://qxbroker.com/profile/images/spritemap.svg 200 
+2025-05-03 12:35:59,946 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:36:00,001 - INFO - Capturing response: https://qxbroker.com/api/v1/cabinets/digest 200 
+2025-05-03 12:36:00,051 - INFO - Capturing request: https://qxbroker.com/profile/images/favicon.png
+2025-05-03 12:36:00,067 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:36:00,085 - INFO - Capturing response: https://qxbroker.com/profile/images/favicon.png 200 
+2025-05-03 12:36:00,085 - INFO - Capturing request: https://passwordsleakcheck-pa.googleapis.com/v1/leaks:lookupSingle
+2025-05-03 12:36:00,196 - INFO - Capturing response: https://passwordsleakcheck-pa.googleapis.com/v1/leaks:lookupSingle 200 
+2025-05-03 12:36:00,200 - INFO - Capturing request: https://qxbroker.com/profile/favicons/favicon.ico
+2025-05-03 12:36:00,334 - INFO - Capturing response: https://qxbroker.com/profile/favicons/favicon.ico 200 
+2025-05-03 12:36:03,671 - INFO - Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746254158528&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116025~103200001~103233427~103251618~103251620&cid=489765283.1746254143&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEAAAAQ&_s=2&sid=1746254142&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dt=Quotex%3A%20An%20innovative%20platform%20for%20online%20investment&en=scroll&epn.percent_scrolled=90&_et=5&tfd=6734
+2025-05-03 12:36:03,745 - INFO - Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je54u1v9101810654za200&_p=1746254158528&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116025~103200001~103233427~103251618~103251620&cid=489765283.1746254143&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEAAAAQ&_s=2&sid=1746254142&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dt=Quotex%3A%20An%20innovative%20platform%20for%20online%20investment&en=scroll&epn.percent_scrolled=90&_et=5&tfd=6734 204 
+2025-05-03 12:36:12,386 - INFO - Capturing request: https://update.googleapis.com/service/update2/json?cup2key=15:vIWMqJg0QGRbmFK5oBzp2vm_YEyv45NbbDNntZwvPr8&cup2hreq=0255f32025c42cf58f744a87083ee03107a5497ce14bddd51ecc6b9a7d077420
+2025-05-03 12:36:12,699 - INFO - Capturing response: https://update.googleapis.com/service/update2/json?cup2key=15:vIWMqJg0QGRbmFK5oBzp2vm_YEyv45NbbDNntZwvPr8&cup2hreq=0255f32025c42cf58f744a87083ee03107a5497ce14bddd51ecc6b9a7d077420 200 
+2025-05-03 12:36:15,266 - INFO - Capturing request: https://clientservices.googleapis.com/uma/v2
+2025-05-03 12:36:15,732 - INFO - Capturing response: https://clientservices.googleapis.com/uma/v2 200 
+2025-05-03 12:36:16,776 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:36:17,016 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:36:21,099 - INFO - Capturing request: wss://ws2.qxbroker.com/socket.io/?EIO=3&transport=websocket
+2025-05-03 12:36:21,676 - INFO - Capturing response: https://ws2.qxbroker.com/socket.io/?EIO=3&transport=websocket 101 Switching Protocols
+2025-05-03 12:36:21,676 - INFO - Streaming WebSocket messages between 127.0.0.1:9996 and ws2.qxbroker.com:443
+2025-05-03 12:36:23,012 - INFO - Capturing request: https://qxbroker.com/profile/images/flags.svg
+2025-05-03 12:36:23,027 - INFO - Capturing request: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg
+2025-05-03 12:36:23,180 - INFO - Capturing response: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg 200 
+2025-05-03 12:36:23,272 - INFO - Capturing response: https://qxbroker.com/profile/images/flags.svg 200 
+2025-05-03 12:36:23,367 - INFO - Capturing request: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBIZCSKFNi4ca2f8EgUNkWGVTiH7DAgncy3VWA==?alt=proto
+2025-05-03 12:36:23,593 - INFO - Capturing response: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBIZCSKFNi4ca2f8EgUNkWGVTiH7DAgncy3VWA==?alt=proto 200 
+2025-05-03 12:36:23,735 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-right-dark.svg
+2025-05-03 12:36:23,737 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-right.svg
+2025-05-03 12:36:23,741 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-right-black.svg
+2025-05-03 12:36:23,751 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-left.svg
+2025-05-03 12:36:23,753 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-left-dark.svg
+2025-05-03 12:36:23,754 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-left-black.svg
+2025-05-03 12:36:23,773 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-right-dark.svg 200 
+2025-05-03 12:36:23,777 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-right-black.svg 200 
+2025-05-03 12:36:23,783 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-right.svg 200 
+2025-05-03 12:36:23,790 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-left.svg 200 
+2025-05-03 12:36:23,793 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-left-dark.svg 200 
+2025-05-03 12:36:23,797 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-left-black.svg 200 
+2025-05-03 12:36:23,800 - INFO - Capturing request: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBInCbTTW7SjlCYbEgUN-xGV8xIFDZFhlU4SBQ2RYZVOITiCCG_u7KK-?alt=proto
+2025-05-03 12:36:24,035 - INFO - Capturing response: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBInCbTTW7SjlCYbEgUN-xGV8xIFDZFhlU4SBQ2RYZVOITiCCG_u7KK-?alt=proto 200 
+2025-05-03 12:36:25,215 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:36:25,582 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:36:29,631 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:36:29,981 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:36:30,598 - INFO - Capturing request: https://qxbroker.com/trade-room/images/ring_dark.svg
+2025-05-03 12:36:30,732 - INFO - Capturing response: https://qxbroker.com/trade-room/images/ring_dark.svg 200 
+2025-05-03 12:36:31,365 - INFO - Capturing request: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBIuCa8O4qtUfO_dEgUNkWGVThIFDYnob5ESBQ2RYZVOEgUNkWGVTiERiuoSncxabw==?alt=proto
+2025-05-03 12:36:31,582 - INFO - Capturing response: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBIuCa8O4qtUfO_dEgUNkWGVThIFDYnob5ESBQ2RYZVOEgUNkWGVTiERiuoSncxabw==?alt=proto 200 
+2025-05-03 12:36:36,548 - INFO - Capturing request: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg
+2025-05-03 12:36:36,697 - INFO - Capturing response: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg 200 
+2025-05-03 12:36:38,082 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:36:38,432 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:36:50,607 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:36:50,852 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:37:06,544 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:37:07,078 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:37:07,445 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:37:27,760 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:37:28,010 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:37:32,595 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:37:52,531 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:37:52,775 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:37:58,615 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:38:21,235 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:38:21,586 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:38:24,695 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:38:50,737 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:38:54,117 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:38:54,360 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:39:16,782 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:39:31,267 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:39:31,619 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:39:42,833 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:40:08,875 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:40:12,291 - INFO - Capturing request: https://update.googleapis.com/service/update2/json
+2025-05-03 12:40:12,653 - INFO - Capturing response: https://update.googleapis.com/service/update2/json 200 
+2025-05-03 12:41:00,925 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:41:26,966 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:41:52,989 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:42:19,037 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:42:45,084 - ERROR - [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+2025-05-03 12:43:21,484 - INFO - Using default request storage
+2025-05-03 12:43:21,500 - INFO - Created proxy listening on 127.0.0.1:10120
+2025-05-03 12:43:22,760 - INFO - Capturing request: http://clients2.google.com/time/1/current?cup2key=9:DD35Pj_LPlREmP7K7NWcHKbOEUKXATG8dc4nc0qVyU8&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-05-03 12:43:22,978 - INFO - Capturing response: http://clients2.google.com/time/1/current?cup2key=9:DD35Pj_LPlREmP7K7NWcHKbOEUKXATG8dc4nc0qVyU8&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 200 OK
+2025-05-03 12:43:23,127 - INFO - Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+2025-05-03 12:43:23,237 - INFO - Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+2025-05-03 12:43:32,868 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE
+2025-05-03 12:43:33,066 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE 200 
+2025-05-03 12:43:33,296 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+2025-05-03 12:43:33,298 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744643050&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+2025-05-03 12:43:33,596 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744643050&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+2025-05-03 12:43:33,698 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+2025-05-03 12:43:33,798 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY
+2025-05-03 12:43:33,929 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2
+2025-05-03 12:43:35,232 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY 200 
+2025-05-03 12:43:35,480 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+2025-05-03 12:43:36,516 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2 200 
+2025-05-03 12:43:36,846 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST
+2025-05-03 12:43:37,032 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+2025-05-03 12:43:37,231 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+2025-05-03 12:43:43,197 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST 200 
+2025-05-03 12:43:43,234 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+2025-05-03 12:43:43,574 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING
+2025-05-03 12:43:43,668 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION
+2025-05-03 12:43:43,779 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING 200 
+2025-05-03 12:43:43,966 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION 200 
+2025-05-03 12:43:44,248 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:43:44,389 - INFO - Capturing response: https://qxbroker.com/en/trade 403 
+2025-05-03 12:43:44,512 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:43:44,647 - INFO - Capturing response: https://qxbroker.com/en/trade 403 
+2025-05-03 12:43:44,797 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=939dc92b98cda475
+2025-05-03 12:43:44,879 - INFO - Capturing request: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+2025-05-03 12:43:44,914 - INFO - Capturing response: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015 200 
+2025-05-03 12:43:44,946 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=939dc92b98cda475 200 
+2025-05-03 12:43:45,081 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:43:45,081 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/180996283:1746252882:b_FXnMg7wlh-WQKZ4vldAYwu7V6gXe3mlyfXQIT08Xs/939dc92b98cda475/WeMa..Q3X3Evw7cXkvC2TeXRp2ycLrplh54ka5AGZnY-1746254624-1.2.1.1-.PK6FMQ9WHouUmtxHa2zFGILGA6LTcxdjd9YSPpsZya09I6BNSFkgYFVTkk9_vZR
+2025-05-03 12:43:45,180 - INFO - Capturing request: https://challenges.cloudflare.com/turnstile/v0/g/8b139538fc64/api.js?onload=wSuaP7&render=explicit
+2025-05-03 12:43:45,214 - INFO - Capturing response: https://qxbroker.com/favicon.ico 403 
+2025-05-03 12:43:45,230 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/180996283:1746252882:b_FXnMg7wlh-WQKZ4vldAYwu7V6gXe3mlyfXQIT08Xs/939dc92b98cda475/WeMa..Q3X3Evw7cXkvC2TeXRp2ycLrplh54ka5AGZnY-1746254624-1.2.1.1-.PK6FMQ9WHouUmtxHa2zFGILGA6LTcxdjd9YSPpsZya09I6BNSFkgYFVTkk9_vZR 200 
+2025-05-03 12:43:45,314 - INFO - Capturing response: https://challenges.cloudflare.com/turnstile/v0/g/8b139538fc64/api.js?onload=wSuaP7&render=explicit 200 
+2025-05-03 12:43:45,606 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/epqph/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/
+2025-05-03 12:43:45,763 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/epqph/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/ 200 
+2025-05-03 12:43:45,912 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1
+2025-05-03 12:43:45,914 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=939dc933193dfe00&lang=auto
+2025-05-03 12:43:46,092 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1 200 
+2025-05-03 12:43:46,181 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=939dc933193dfe00&lang=auto 200 
+2025-05-03 12:43:46,205 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:43:46,314 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:43:46,331 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:43:46,331 - INFO - Capturing response: https://qxbroker.com/favicon.ico 403 
+2025-05-03 12:43:46,331 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/609647744:1746253075:PsDw7mExiK881mTjTXGXYsoPWDxqepQwkejeygWBj2k/939dc933193dfe00/yi7Gxf3RDiwlF.Kg3WbAugOB4RYc2Uhdl.NoJm0mKcA-1746254625-1.2.1.1-Ikx_7o9d9sE7XQ7pVVONB_GGf7BAZ87_0VLkSXYJ2F8CXfMENh6pin4olYir9CEi
+2025-05-03 12:43:46,828 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/609647744:1746253075:PsDw7mExiK881mTjTXGXYsoPWDxqepQwkejeygWBj2k/939dc933193dfe00/yi7Gxf3RDiwlF.Kg3WbAugOB4RYc2Uhdl.NoJm0mKcA-1746254625-1.2.1.1-Ikx_7o9d9sE7XQ7pVVONB_GGf7BAZ87_0VLkSXYJ2F8CXfMENh6pin4olYir9CEi 200 
+2025-05-03 12:43:47,511 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/939dc933193dfe00/1746254626437/d7630a98b0142ea6fab50e9f83430ce08bf740d2113b0f23e0f2e2d63e02f8d7/ahzueBiazPbrDeE
+2025-05-03 12:43:47,694 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/939dc933193dfe00/1746254626437/d7630a98b0142ea6fab50e9f83430ce08bf740d2113b0f23e0f2e2d63e02f8d7/ahzueBiazPbrDeE 401 
+2025-05-03 12:43:48,637 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/939dc933193dfe00/1746254626438/oAzDnNN51OLqVL6
+2025-05-03 12:43:48,823 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/939dc933193dfe00/1746254626438/oAzDnNN51OLqVL6 200 
+2025-05-03 12:43:49,258 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/609647744:1746253075:PsDw7mExiK881mTjTXGXYsoPWDxqepQwkejeygWBj2k/939dc933193dfe00/yi7Gxf3RDiwlF.Kg3WbAugOB4RYc2Uhdl.NoJm0mKcA-1746254625-1.2.1.1-Ikx_7o9d9sE7XQ7pVVONB_GGf7BAZ87_0VLkSXYJ2F8CXfMENh6pin4olYir9CEi
+2025-05-03 12:43:49,415 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/609647744:1746253075:PsDw7mExiK881mTjTXGXYsoPWDxqepQwkejeygWBj2k/939dc933193dfe00/yi7Gxf3RDiwlF.Kg3WbAugOB4RYc2Uhdl.NoJm0mKcA-1746254625-1.2.1.1-Ikx_7o9d9sE7XQ7pVVONB_GGf7BAZ87_0VLkSXYJ2F8CXfMENh6pin4olYir9CEi 200 
+2025-05-03 12:43:50,925 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/609647744:1746253075:PsDw7mExiK881mTjTXGXYsoPWDxqepQwkejeygWBj2k/939dc933193dfe00/yi7Gxf3RDiwlF.Kg3WbAugOB4RYc2Uhdl.NoJm0mKcA-1746254625-1.2.1.1-Ikx_7o9d9sE7XQ7pVVONB_GGf7BAZ87_0VLkSXYJ2F8CXfMENh6pin4olYir9CEi
+2025-05-03 12:43:51,154 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/609647744:1746253075:PsDw7mExiK881mTjTXGXYsoPWDxqepQwkejeygWBj2k/939dc933193dfe00/yi7Gxf3RDiwlF.Kg3WbAugOB4RYc2Uhdl.NoJm0mKcA-1746254625-1.2.1.1-Ikx_7o9d9sE7XQ7pVVONB_GGf7BAZ87_0VLkSXYJ2F8CXfMENh6pin4olYir9CEi 200 
+2025-05-03 12:43:51,182 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/180996283:1746252882:b_FXnMg7wlh-WQKZ4vldAYwu7V6gXe3mlyfXQIT08Xs/939dc92b98cda475/WeMa..Q3X3Evw7cXkvC2TeXRp2ycLrplh54ka5AGZnY-1746254624-1.2.1.1-.PK6FMQ9WHouUmtxHa2zFGILGA6LTcxdjd9YSPpsZya09I6BNSFkgYFVTkk9_vZR
+2025-05-03 12:43:51,217 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/180996283:1746252882:b_FXnMg7wlh-WQKZ4vldAYwu7V6gXe3mlyfXQIT08Xs/939dc92b98cda475/WeMa..Q3X3Evw7cXkvC2TeXRp2ycLrplh54ka5AGZnY-1746254624-1.2.1.1-.PK6FMQ9WHouUmtxHa2zFGILGA6LTcxdjd9YSPpsZya09I6BNSFkgYFVTkk9_vZR 200 
+2025-05-03 12:43:53,348 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:43:53,367 - INFO - Capturing response: https://qxbroker.com/en/trade 403 
+2025-05-03 12:43:53,386 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:43:53,497 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=939dc962ca35a475
+2025-05-03 12:43:53,575 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:43:53,652 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=939dc962ca35a475 200 
+2025-05-03 12:43:53,803 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1174967581:1746252972:oaOHFG9yfYxWWbB52___NW3V4cJtEGqR9E-0TH336nw/939dc962ca35a475/b0MCH0H6SljIUPQA7CI6nQLPEbjn6hBdJyC1NZoR5d4-1746254633-1.2.1.1-hbP8Z1bu4gIiIjaA2YEQMtBeUMktwbSVIs8XXrxHDztkznmeP5JwYklMX5DCcuwK
+2025-05-03 12:43:53,809 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:43:53,850 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1174967581:1746252972:oaOHFG9yfYxWWbB52___NW3V4cJtEGqR9E-0TH336nw/939dc962ca35a475/b0MCH0H6SljIUPQA7CI6nQLPEbjn6hBdJyC1NZoR5d4-1746254633-1.2.1.1-hbP8Z1bu4gIiIjaA2YEQMtBeUMktwbSVIs8XXrxHDztkznmeP5JwYklMX5DCcuwK 200 
+2025-05-03 12:43:53,950 - INFO - Capturing response: https://qxbroker.com/favicon.ico 403 
+2025-05-03 12:43:54,011 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/e0ky7/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/
+2025-05-03 12:43:54,196 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/e0ky7/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/ 200 
+2025-05-03 12:43:54,321 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=939dc9670bfbfe00&lang=auto
+2025-05-03 12:43:54,323 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1
+2025-05-03 12:43:54,513 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=939dc9670bfbfe00&lang=auto 200 
+2025-05-03 12:43:54,531 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:43:54,598 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1 200 
+2025-05-03 12:43:54,645 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:43:54,664 - INFO - Capturing response: https://qxbroker.com/favicon.ico 403 
+2025-05-03 12:43:54,681 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:43:54,681 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1013411340:1746253067:UY8x8NZU7B693x_bS6YFTPbqJ7hBqDMOK1y--97um7Q/939dc9670bfbfe00/FruuggHrrgurpmdNSHjSi1pNr6LN1zBmhpPtsjYfNOo-1746254634-1.2.1.1-c3aohULE629dwxu73NcGnAbSA61T6T4CitOjLtR9fylN4SOIHALOxVJjyBEDrykV
+2025-05-03 12:43:55,180 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1013411340:1746253067:UY8x8NZU7B693x_bS6YFTPbqJ7hBqDMOK1y--97um7Q/939dc9670bfbfe00/FruuggHrrgurpmdNSHjSi1pNr6LN1zBmhpPtsjYfNOo-1746254634-1.2.1.1-c3aohULE629dwxu73NcGnAbSA61T6T4CitOjLtR9fylN4SOIHALOxVJjyBEDrykV 200 
+2025-05-03 12:43:55,945 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/939dc9670bfbfe00/1746254634783/d655dN00FxnPWmt
+2025-05-03 12:43:56,127 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/939dc9670bfbfe00/1746254634783/d655dN00FxnPWmt 200 
+2025-05-03 12:43:56,623 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/939dc9670bfbfe00/1746254634786/52329a9203575c33eb4c85ff429424dc00587b4f64b6b5fea0986e7a8a622e26/Anv8Pq7VltpRzzs
+2025-05-03 12:43:56,797 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/939dc9670bfbfe00/1746254634786/52329a9203575c33eb4c85ff429424dc00587b4f64b6b5fea0986e7a8a622e26/Anv8Pq7VltpRzzs 401 
+2025-05-03 12:43:57,274 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1013411340:1746253067:UY8x8NZU7B693x_bS6YFTPbqJ7hBqDMOK1y--97um7Q/939dc9670bfbfe00/FruuggHrrgurpmdNSHjSi1pNr6LN1zBmhpPtsjYfNOo-1746254634-1.2.1.1-c3aohULE629dwxu73NcGnAbSA61T6T4CitOjLtR9fylN4SOIHALOxVJjyBEDrykV
+2025-05-03 12:43:57,381 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1013411340:1746253067:UY8x8NZU7B693x_bS6YFTPbqJ7hBqDMOK1y--97um7Q/939dc9670bfbfe00/FruuggHrrgurpmdNSHjSi1pNr6LN1zBmhpPtsjYfNOo-1746254634-1.2.1.1-c3aohULE629dwxu73NcGnAbSA61T6T4CitOjLtR9fylN4SOIHALOxVJjyBEDrykV 200 
+2025-05-03 12:43:59,516 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1013411340:1746253067:UY8x8NZU7B693x_bS6YFTPbqJ7hBqDMOK1y--97um7Q/939dc9670bfbfe00/FruuggHrrgurpmdNSHjSi1pNr6LN1zBmhpPtsjYfNOo-1746254634-1.2.1.1-c3aohULE629dwxu73NcGnAbSA61T6T4CitOjLtR9fylN4SOIHALOxVJjyBEDrykV
+2025-05-03 12:43:59,615 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1013411340:1746253067:UY8x8NZU7B693x_bS6YFTPbqJ7hBqDMOK1y--97um7Q/939dc9670bfbfe00/FruuggHrrgurpmdNSHjSi1pNr6LN1zBmhpPtsjYfNOo-1746254634-1.2.1.1-c3aohULE629dwxu73NcGnAbSA61T6T4CitOjLtR9fylN4SOIHALOxVJjyBEDrykV 200 
+2025-05-03 12:43:59,650 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1174967581:1746252972:oaOHFG9yfYxWWbB52___NW3V4cJtEGqR9E-0TH336nw/939dc962ca35a475/b0MCH0H6SljIUPQA7CI6nQLPEbjn6hBdJyC1NZoR5d4-1746254633-1.2.1.1-hbP8Z1bu4gIiIjaA2YEQMtBeUMktwbSVIs8XXrxHDztkznmeP5JwYklMX5DCcuwK
+2025-05-03 12:44:00,046 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/1174967581:1746252972:oaOHFG9yfYxWWbB52___NW3V4cJtEGqR9E-0TH336nw/939dc962ca35a475/b0MCH0H6SljIUPQA7CI6nQLPEbjn6hBdJyC1NZoR5d4-1746254633-1.2.1.1-hbP8Z1bu4gIiIjaA2YEQMtBeUMktwbSVIs8XXrxHDztkznmeP5JwYklMX5DCcuwK 200 
+2025-05-03 12:44:00,068 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:44:00,177 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:44:00,313 - INFO - Capturing response: https://qxbroker.com/favicon.ico 200 
+2025-05-03 12:44:00,447 - INFO - Capturing response: https://qxbroker.com/en/trade 200 
+2025-05-03 12:44:00,486 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:44:00,582 - INFO - Capturing request: https://qxbroker.com/css/debugbar/debug-bar-decorator.css
+2025-05-03 12:44:00,584 - INFO - Capturing request: https://qxbroker.com/site/img/quotex_logo-white.svg
+2025-05-03 12:44:00,586 - INFO - Capturing request: https://qxbroker.com/site/css/main.min.css?8
+2025-05-03 12:44:00,597 - INFO - Capturing request: https://qxbroker.com/site/img/playmarket.svg
+2025-05-03 12:44:00,631 - INFO - Capturing response: https://qxbroker.com/site/css/main.min.css?8 200 
+2025-05-03 12:44:00,631 - INFO - Capturing response: https://qxbroker.com/site/img/quotex_logo-white.svg 200 
+2025-05-03 12:44:00,631 - INFO - Capturing response: https://qxbroker.com/site/img/playmarket.svg 200 
+2025-05-03 12:44:00,661 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:44:00,728 - INFO - Capturing response: https://qxbroker.com/css/debugbar/debug-bar-decorator.css 200 
+2025-05-03 12:44:00,763 - INFO - Capturing request: https://qxbroker.com/site/js/main.min.js?7
+2025-05-03 12:44:00,794 - INFO - Capturing response: https://qxbroker.com/site/js/main.min.js?7 200 
+2025-05-03 12:44:00,796 - INFO - Capturing request: https://unpkg.com/imask
+2025-05-03 12:44:00,978 - INFO - Capturing request: https://www.free-kassa.ru/img/fk_btn/17.png
+2025-05-03 12:44:01,097 - INFO - Capturing response: https://unpkg.com/imask 302 
+2025-05-03 12:44:01,209 - INFO - Capturing request: https://unpkg.com/imask@7.6.1/dist/imask.js
+2025-05-03 12:44:01,247 - INFO - Capturing response: https://www.free-kassa.ru/img/fk_btn/17.png 301 
+2025-05-03 12:44:01,429 - INFO - Capturing response: https://unpkg.com/imask@7.6.1/dist/imask.js 200 
+2025-05-03 12:44:01,565 - INFO - Capturing request: https://qxbroker.com/site/img/icons/google.svg
+2025-05-03 12:44:01,565 - INFO - Capturing request: https://qxbroker.com/site/img/icons/facebook-login.svg
+2025-05-03 12:44:01,565 - INFO - Capturing request: https://qxbroker.com/site/img/quotex_logo.svg
+2025-05-03 12:44:01,565 - INFO - Capturing request: https://qxbroker.com/profile/images/spritemap.svg
+2025-05-03 12:44:01,565 - INFO - Capturing request: https://qxbroker.com/site/img/icons/telegram.svg
+2025-05-03 12:44:01,565 - INFO - Capturing request: https://qxbroker.com/site/img/about-us/bg-sing-form.png
+2025-05-03 12:44:01,565 - INFO - Capturing request: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+2025-05-03 12:44:01,565 - INFO - Capturing request: https://qxbroker.com/site/img/icons/instagram.svg
+2025-05-03 12:44:01,580 - INFO - Capturing request: https://qxbroker.com/site/img/icons/facebook.svg
+2025-05-03 12:44:01,596 - INFO - Capturing response: https://qxbroker.com/site/img/icons/google.svg 200 
+2025-05-03 12:44:01,596 - INFO - Capturing response: https://qxbroker.com/site/img/quotex_logo.svg 200 
+2025-05-03 12:44:01,617 - INFO - Capturing response: https://qxbroker.com/site/img/icons/facebook-login.svg 200 
+2025-05-03 12:44:01,623 - INFO - Capturing request: https://qxbroker.com/fonts/Roboto-Black.ttf
+2025-05-03 12:44:01,625 - INFO - Capturing request: https://qxbroker.com/fonts/Roboto-Bold.ttf
+2025-05-03 12:44:01,627 - INFO - Capturing request: https://qxbroker.com/site/img/main_bg.mp4
+2025-05-03 12:44:01,632 - INFO - Capturing request: https://qxbroker.com/fonts/Roboto-Regular.ttf
+2025-05-03 12:44:01,634 - INFO - Capturing request: https://qxbroker.com/fonts/Roboto-Medium.ttf
+2025-05-03 12:44:01,642 - INFO - Capturing response: https://qxbroker.com/site/img/icons/telegram.svg 200 
+2025-05-03 12:44:01,651 - INFO - Capturing response: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015 200 
+2025-05-03 12:44:01,653 - INFO - Capturing request: https://freekassa.net/
+2025-05-03 12:44:01,669 - INFO - Capturing response: https://qxbroker.com/site/img/about-us/bg-sing-form.png 200 
+2025-05-03 12:44:01,749 - INFO - Capturing response: https://qxbroker.com/site/img/icons/instagram.svg 200 
+2025-05-03 12:44:01,752 - INFO - Capturing response: https://qxbroker.com/site/img/icons/facebook.svg 200 
+2025-05-03 12:44:01,781 - INFO - Capturing request: https://www.googletagmanager.com/gtag/js?id=G-L4T5GBPFHJ
+2025-05-03 12:44:01,783 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/scripts/jsd/main.js
+2025-05-03 12:44:01,862 - INFO - Capturing response: https://qxbroker.com/fonts/Roboto-Bold.ttf 200 
+2025-05-03 12:44:01,914 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/scripts/jsd/main.js 302 
+2025-05-03 12:44:01,978 - INFO - Capturing request: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBI1CStNkJNVmcihEgUNkVN0rBIFDb5Qm4ESBQ2uXsj2EgUNg6hbPRIFDc5BTHohlvZx0S5fZF8SIAkw-Y7WWs-_uhIFDYOoWz0SBQ3OQUx6Ic6yPEc8k8sI?alt=proto
+2025-05-03 12:44:01,985 - INFO - Capturing response: https://www.googletagmanager.com/gtag/js?id=G-L4T5GBPFHJ 200 
+2025-05-03 12:44:01,996 - INFO - Capturing response: https://qxbroker.com/fonts/Roboto-Regular.ttf 200 
+2025-05-03 12:44:02,032 - INFO - Capturing response: https://qxbroker.com/fonts/Roboto-Black.ttf 200 
+2025-05-03 12:44:02,036 - INFO - Capturing response: https://qxbroker.com/fonts/Roboto-Medium.ttf 200 
+2025-05-03 12:44:02,039 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/8b139538fc64/main.js?
+2025-05-03 12:44:02,124 - INFO - Capturing response: https://qxbroker.com/profile/images/spritemap.svg 200 
+2025-05-03 12:44:02,180 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/8b139538fc64/main.js? 200 
+2025-05-03 12:44:02,196 - INFO - Capturing response: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBI1CStNkJNVmcihEgUNkVN0rBIFDb5Qm4ESBQ2uXsj2EgUNg6hbPRIFDc5BTHohlvZx0S5fZF8SIAkw-Y7WWs-_uhIFDYOoWz0SBQ3OQUx6Ic6yPEc8k8sI?alt=proto 200 
+2025-05-03 12:44:02,222 - INFO - Capturing response: https://qxbroker.com/site/img/main_bg.mp4 206 
+2025-05-03 12:44:02,299 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/jsd/r/0.5201773234426571:1746252813:X-q3CtkPtjpvuyTbz1_lZVdz0vAqINnaOqfik0haksY/939dc98cdfdfa475
+2025-05-03 12:44:02,327 - INFO - Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je5510h2v9101810654za200&_p=1746254641439&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1583331006.1746254642&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1746254642&sct=1&seg=0&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3D1_rLBHdS3hbaJn6sWr7fg3RJ_eWBvFm.A83Gyj0IdDA-1746254633-1.0.1.1-yjuNnOPsOXdzGBaifpwX1tjhUnn3.IB6nuxQx1gFNps&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1990
+2025-05-03 12:44:02,408 - INFO - Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je5510h2v9101810654za200&_p=1746254641439&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1583331006.1746254642&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1746254642&sct=1&seg=0&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3D1_rLBHdS3hbaJn6sWr7fg3RJ_eWBvFm.A83Gyj0IdDA-1746254633-1.0.1.1-yjuNnOPsOXdzGBaifpwX1tjhUnn3.IB6nuxQx1gFNps&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1990 204 
+2025-05-03 12:44:02,447 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/jsd/r/0.5201773234426571:1746252813:X-q3CtkPtjpvuyTbz1_lZVdz0vAqINnaOqfik0haksY/939dc98cdfdfa475 200 
+2025-05-03 12:44:02,753 - INFO - Capturing response: https://freekassa.net/ 200 
+2025-05-03 12:44:12,127 - INFO - Capturing request: https://qxbroker.com/en/sign-in/
+2025-05-03 12:44:12,661 - INFO - Capturing response: https://qxbroker.com/en/sign-in/ 302 
+2025-05-03 12:44:12,777 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:44:13,193 - INFO - Capturing response: https://qxbroker.com/en/trade 200 
+2025-05-03 12:44:13,212 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:44:13,218 - INFO - Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je5510h2v9101810654za200&_p=1746254641439&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1583331006.1746254642&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEEAAAQ&sid=1746254642&sct=1&seg=0&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3D1_rLBHdS3hbaJn6sWr7fg3RJ_eWBvFm.A83Gyj0IdDA-1746254633-1.0.1.1-yjuNnOPsOXdzGBaifpwX1tjhUnn3.IB6nuxQx1gFNps&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&_s=2&tfd=13144
+2025-05-03 12:44:13,327 - INFO - Capturing request: https://qxbroker.com/trade-room/react/vendor.css?v=1746113426
+2025-05-03 12:44:13,330 - INFO - Capturing request: https://qxbroker.com/trade-room/react/app.css?v=1746113426
+2025-05-03 12:44:13,332 - INFO - Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je5510h2v9101810654za200&_p=1746254641439&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1583331006.1746254642&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=3&sid=1746254642&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3D1_rLBHdS3hbaJn6sWr7fg3RJ_eWBvFm.A83Gyj0IdDA-1746254633-1.0.1.1-yjuNnOPsOXdzGBaifpwX1tjhUnn3.IB6nuxQx1gFNps&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&en=user_engagement&_et=1081&tfd=13145
+2025-05-03 12:44:13,345 - INFO - Capturing request: https://qxbroker.com/trade-room/react/app.js?v=1746113426
+2025-05-03 12:44:13,347 - INFO - Capturing request: https://qxbroker.com/trade-room/react/vendor.js?v=1746113426
+2025-05-03 12:44:13,349 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:44:13,349 - INFO - Capturing request: https://qxbroker.com/profile/css/custom.css?v=1723031390
+2025-05-03 12:44:13,363 - INFO - Capturing response: https://qxbroker.com/trade-room/react/vendor.css?v=1746113426 200 
+2025-05-03 12:44:13,430 - INFO - Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je5510h2v9101810654za200&_p=1746254641439&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1583331006.1746254642&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=3&sid=1746254642&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3D1_rLBHdS3hbaJn6sWr7fg3RJ_eWBvFm.A83Gyj0IdDA-1746254633-1.0.1.1-yjuNnOPsOXdzGBaifpwX1tjhUnn3.IB6nuxQx1gFNps&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&en=user_engagement&_et=1081&tfd=13145 204 
+2025-05-03 12:44:13,447 - INFO - Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je5510h2v9101810654za200&_p=1746254641439&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1583331006.1746254642&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEEAAAQ&sid=1746254642&sct=1&seg=0&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade%3F__cf_chl_tk%3D1_rLBHdS3hbaJn6sWr7fg3RJ_eWBvFm.A83Gyj0IdDA-1746254633-1.0.1.1-yjuNnOPsOXdzGBaifpwX1tjhUnn3.IB6nuxQx1gFNps&dt=Quotex%20trading%20platform%20%7C%20QxBroker%20official%20site&_s=2&tfd=13144 204 
+2025-05-03 12:44:13,496 - INFO - Capturing response: https://qxbroker.com/trade-room/react/app.css?v=1746113426 200 
+2025-05-03 12:44:13,514 - INFO - Capturing response: https://qxbroker.com/profile/css/custom.css?v=1723031390 200 
+2025-05-03 12:44:13,527 - INFO - Capturing response: https://qxbroker.com/trade-room/react/app.js?v=1746113426 200 
+2025-05-03 12:44:13,747 - INFO - Capturing response: https://qxbroker.com/trade-room/react/vendor.js?v=1746113426 200 
+2025-05-03 12:44:13,932 - INFO - Capturing request: https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap
+2025-05-03 12:44:13,934 - INFO - Capturing request: https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic
+2025-05-03 12:44:14,047 - INFO - Capturing response: https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic 200 
+2025-05-03 12:44:14,122 - INFO - Capturing response: https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap 200 
+2025-05-03 12:44:14,249 - INFO - Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je5510h2v9101810654za200&_p=1746254654127&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1583331006.1746254642&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=1&sid=1746254642&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dt=Quotex%3A%20An%20innovative%20platform%20for%20online%20investment&en=page_view&_ee=1&tfd=2022
+2025-05-03 12:44:14,440 - INFO - Capturing request: https://qxbroker.com/trade-room/react/undefined.css?h=undefined
+2025-05-03 12:44:14,441 - INFO - Capturing request: https://qxbroker.com/trade-room/react/tournament.css?h=e324a71df7ee12575212
+2025-05-03 12:44:14,448 - INFO - Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je5510h2v9101810654za200&_p=1746254654127&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1583331006.1746254642&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=1&sid=1746254642&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dt=Quotex%3A%20An%20innovative%20platform%20for%20online%20investment&en=page_view&_ee=1&tfd=2022 204 
+2025-05-03 12:44:14,449 - INFO - Capturing request: https://qxbroker.com/trade-room/react/tournament.js?h=ce59f332ac364b3a701a
+2025-05-03 12:44:14,455 - INFO - Capturing request: https://qxbroker.com/trade-room/react/tournaments.js?h=966d3efbbbebfee0ac89
+2025-05-03 12:44:14,457 - INFO - Capturing request: https://qxbroker.com/trade-room/react/tournaments.css?h=1718161d33a93b493363
+2025-05-03 12:44:14,471 - INFO - Capturing request: https://qxbroker.com/trade-room/react/chart.css?h=8d0db4ed182cf7e9c6e3
+2025-05-03 12:44:14,472 - INFO - Capturing request: https://qxbroker.com/trade-room/react/transactions.css?h=d8f43464fe4837ce8cb2
+2025-05-03 12:44:14,475 - INFO - Capturing request: https://qxbroker.com/trade-room/react/market.js?h=d78fae39538eb1f5db2f
+2025-05-03 12:44:14,477 - INFO - Capturing request: https://qxbroker.com/trade-room/react/transactions.js?h=94b07d8ae3c3250888d1
+2025-05-03 12:44:14,480 - INFO - Capturing request: https://qxbroker.com/trade-room/react/market.css?h=fa6ee23da14792218280
+2025-05-03 12:44:14,482 - INFO - Capturing request: https://qxbroker.com/trade-room/react/chart.js?h=aa7ff60c2290b2cc9fce
+2025-05-03 12:44:14,484 - INFO - Capturing request: https://qxbroker.com/trade-room/react/pendingTrades.css?h=c2595566326ff2ad41f9
+2025-05-03 12:44:14,491 - INFO - Capturing request: https://qxbroker.com/trade-room/react/pendingTrades.js?h=48bd086594766d29d077
+2025-05-03 12:44:14,493 - INFO - Capturing request: https://qxbroker.com/trade-room/react/analytics.js?h=53def3a8509554490a89
+2025-05-03 12:44:14,494 - INFO - Capturing request: https://qxbroker.com/trade-room/react/analytics.css?h=b3f08bb2c4bb735a27f1
+2025-05-03 12:44:14,498 - INFO - Capturing request: https://qxbroker.com/trade-room/react/account.css?h=2270a8e2d2737b25afa6
+2025-05-03 12:44:14,500 - INFO - Capturing request: https://qxbroker.com/trade-room/react/account.js?h=b82757040aca46fe0ada
+2025-05-03 12:44:14,504 - INFO - Capturing request: https://qxbroker.com/trade-room/react/trades.css?h=26837506d583295c606a
+2025-05-03 12:44:14,506 - INFO - Capturing request: https://qxbroker.com/trade-room/react/trades.js?h=0683cfb80dfa0a45d073
+2025-05-03 12:44:14,511 - INFO - Capturing response: https://qxbroker.com/trade-room/react/undefined.css?h=undefined 404 
+2025-05-03 12:44:14,516 - INFO - Capturing response: https://qxbroker.com/trade-room/react/tournament.css?h=e324a71df7ee12575212 200 
+2025-05-03 12:44:14,518 - INFO - Capturing request: https://qxbroker.com/translate/en.json
+2025-05-03 12:44:14,525 - INFO - Capturing response: https://qxbroker.com/trade-room/react/tournament.js?h=ce59f332ac364b3a701a 200 
+2025-05-03 12:44:14,535 - INFO - Capturing response: https://qxbroker.com/trade-room/react/tournaments.css?h=1718161d33a93b493363 200 
+2025-05-03 12:44:14,538 - INFO - Capturing response: https://qxbroker.com/trade-room/react/tournaments.js?h=966d3efbbbebfee0ac89 200 
+2025-05-03 12:44:14,543 - INFO - Capturing response: https://qxbroker.com/trade-room/react/transactions.css?h=d8f43464fe4837ce8cb2 200 
+2025-05-03 12:44:14,546 - INFO - Capturing response: https://qxbroker.com/trade-room/react/chart.css?h=8d0db4ed182cf7e9c6e3 200 
+2025-05-03 12:44:14,550 - INFO - Capturing response: https://qxbroker.com/trade-room/react/chart.js?h=aa7ff60c2290b2cc9fce 200 
+2025-05-03 12:44:14,558 - INFO - Capturing response: https://qxbroker.com/trade-room/react/market.css?h=fa6ee23da14792218280 200 
+2025-05-03 12:44:14,565 - INFO - Capturing response: https://qxbroker.com/trade-room/react/market.js?h=d78fae39538eb1f5db2f 200 
+2025-05-03 12:44:14,570 - INFO - Capturing response: https://qxbroker.com/trade-room/react/transactions.js?h=94b07d8ae3c3250888d1 200 
+2025-05-03 12:44:14,576 - INFO - Capturing response: https://qxbroker.com/trade-room/react/pendingTrades.css?h=c2595566326ff2ad41f9 200 
+2025-05-03 12:44:14,583 - INFO - Capturing response: https://qxbroker.com/trade-room/react/analytics.css?h=b3f08bb2c4bb735a27f1 200 
+2025-05-03 12:44:14,592 - INFO - Capturing response: https://qxbroker.com/trade-room/react/trades.css?h=26837506d583295c606a 200 
+2025-05-03 12:44:14,595 - INFO - Capturing response: https://qxbroker.com/trade-room/react/account.js?h=b82757040aca46fe0ada 200 
+2025-05-03 12:44:14,599 - INFO - Capturing response: https://qxbroker.com/trade-room/react/trades.js?h=0683cfb80dfa0a45d073 200 
+2025-05-03 12:44:14,602 - INFO - Capturing response: https://qxbroker.com/trade-room/react/pendingTrades.js?h=48bd086594766d29d077 200 
+2025-05-03 12:44:14,605 - INFO - Capturing response: https://qxbroker.com/trade-room/react/account.css?h=2270a8e2d2737b25afa6 200 
+2025-05-03 12:44:14,608 - INFO - Capturing response: https://qxbroker.com/trade-room/react/analytics.js?h=53def3a8509554490a89 200 
+2025-05-03 12:44:14,663 - INFO - Capturing request: https://qxbroker.com/trade-room/react/chart.css?h=8d0db4ed182cf7e9c6e3
+2025-05-03 12:44:14,693 - INFO - Capturing request: https://qxbroker.com/trade-room/react/chart.js?h=aa7ff60c2290b2cc9fce
+2025-05-03 12:44:14,700 - INFO - Capturing response: https://qxbroker.com/trade-room/react/chart.css?h=8d0db4ed182cf7e9c6e3 200 
+2025-05-03 12:44:14,759 - INFO - Capturing response: https://qxbroker.com/translate/en.json 200 
+2025-05-03 12:44:14,816 - INFO - Capturing request: https://sessions.bugsnag.com/
+2025-05-03 12:44:14,830 - INFO - Capturing request: https://sessions.bugsnag.com/
+2025-05-03 12:44:14,842 - INFO - Capturing response: https://qxbroker.com/trade-room/react/chart.js?h=aa7ff60c2290b2cc9fce 200 
+2025-05-03 12:44:14,877 - INFO - Capturing request: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg
+2025-05-03 12:44:14,879 - INFO - Capturing request: https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2
+2025-05-03 12:44:14,912 - INFO - Capturing response: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg 200 
+2025-05-03 12:44:15,065 - INFO - Capturing response: https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2 200 
+2025-05-03 12:44:15,159 - INFO - Capturing request: https://qxbroker.com/api/v1/cabinets/digest
+2025-05-03 12:44:15,160 - INFO - Capturing request: https://qxbroker.com/api/v1/cabinets/trades/settings/high-low
+2025-05-03 12:44:15,163 - INFO - Capturing request: https://qxbroker.com/profile/images/spritemap.svg
+2025-05-03 12:44:15,196 - INFO - Capturing response: https://sessions.bugsnag.com/ 202 
+2025-05-03 12:44:15,196 - INFO - Capturing response: https://sessions.bugsnag.com/ 202 
+2025-05-03 12:44:15,429 - INFO - Capturing response: https://qxbroker.com/profile/images/spritemap.svg 200 
+2025-05-03 12:44:15,434 - INFO - Capturing response: https://qxbroker.com/api/v1/cabinets/digest 200 
+2025-05-03 12:44:15,502 - INFO - Capturing response: https://qxbroker.com/api/v1/cabinets/trades/settings/high-low 200 
+2025-05-03 12:44:15,520 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:44:15,630 - INFO - Capturing request: https://qxbroker.com/profile/images/favicon.png
+2025-05-03 12:44:15,649 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:44:15,650 - INFO - Capturing request: wss://ws2.qxbroker.com/socket.io/?EIO=3&transport=websocket
+2025-05-03 12:44:15,777 - INFO - Capturing request: https://passwordsleakcheck-pa.googleapis.com/v1/leaks:lookupSingle
+2025-05-03 12:44:15,780 - INFO - Capturing response: https://qxbroker.com/profile/images/favicon.png 200 
+2025-05-03 12:44:15,873 - INFO - Capturing response: https://passwordsleakcheck-pa.googleapis.com/v1/leaks:lookupSingle 200 
+2025-05-03 12:44:15,896 - INFO - Capturing request: https://qxbroker.com/profile/favicons/favicon.ico
+2025-05-03 12:44:16,030 - INFO - Capturing response: https://qxbroker.com/profile/favicons/favicon.ico 200 
+2025-05-03 12:44:16,203 - INFO - Capturing response: https://ws2.qxbroker.com/socket.io/?EIO=3&transport=websocket 101 Switching Protocols
+2025-05-03 12:44:16,203 - INFO - Streaming WebSocket messages between 127.0.0.1:10187 and ws2.qxbroker.com:443
+2025-05-03 12:44:17,530 - INFO - Capturing request: https://qxbroker.com/profile/images/flags.svg
+2025-05-03 12:44:17,563 - INFO - Capturing request: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg
+2025-05-03 12:44:17,727 - INFO - Capturing response: https://qxbroker.com/trade-room/react/images/86b3169cdc38f0881176.svg 200 
+2025-05-03 12:44:17,780 - INFO - Capturing response: https://qxbroker.com/profile/images/flags.svg 200 
+2025-05-03 12:44:17,878 - INFO - Capturing request: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBIZCSKFNi4ca2f8EgUNkWGVTiH7DAgncy3VWA==?alt=proto
+2025-05-03 12:44:18,110 - INFO - Capturing response: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBIZCSKFNi4ca2f8EgUNkWGVTiH7DAgncy3VWA==?alt=proto 200 
+2025-05-03 12:44:18,229 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-right-dark.svg
+2025-05-03 12:44:18,229 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-right.svg
+2025-05-03 12:44:18,254 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-left-dark.svg
+2025-05-03 12:44:18,256 - INFO - Capturing request: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBInCbTTW7SjlCYbEgUNtA_OnhIFDZFhlU4SBQ2RYZVOITiCCG_u7KK-?alt=proto
+2025-05-03 12:44:18,258 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-left-black.svg
+2025-05-03 12:44:18,258 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-left.svg
+2025-05-03 12:44:18,263 - INFO - Capturing request: https://qxbroker.com/trade-room/images/arrow-right-black.svg
+2025-05-03 12:44:18,378 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-right.svg 200 
+2025-05-03 12:44:18,382 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-right-dark.svg 200 
+2025-05-03 12:44:18,403 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-left.svg 200 
+2025-05-03 12:44:18,403 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-right-black.svg 200 
+2025-05-03 12:44:18,411 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-left-dark.svg 200 
+2025-05-03 12:44:18,412 - INFO - Capturing response: https://qxbroker.com/trade-room/images/arrow-left-black.svg 200 
+2025-05-03 12:44:18,496 - INFO - Capturing response: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy40OBInCbTTW7SjlCYbEgUNtA_OnhIFDZFhlU4SBQ2RYZVOITiCCG_u7KK-?alt=proto 200 
+2025-05-03 12:44:19,255 - INFO - Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je5510h2v9101810654za200&_p=1746254654127&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1583331006.1746254642&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEAAAAQ&_s=2&sid=1746254642&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dt=Quotex%3A%20An%20innovative%20platform%20for%20online%20investment&en=scroll&epn.percent_scrolled=90&_et=4&tfd=7026
+2025-05-03 12:44:19,442 - INFO - Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-L4T5GBPFHJ&gtm=45je5510h2v9101810654za200&_p=1746254654127&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103101750~103101752~103116026~103200004~103233427~103251618~103251620&cid=1583331006.1746254642&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.48%7CGoogle%2520Chrome%3B136.0.7103.48%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEAAAAQ&_s=2&sid=1746254642&sct=1&seg=1&dl=https%3A%2F%2Fqxbroker.com%2Fen%2Ftrade&dr=https%3A%2F%2Fqxbroker.com%2Fen%2Fsign-in&dt=Quotex%3A%20An%20innovative%20platform%20for%20online%20investment&en=scroll&epn.percent_scrolled=90&_et=4&tfd=7026 204 
+2025-05-03 12:44:22,914 - INFO - Capturing request: https://update.googleapis.com/service/update2/json?cup2key=15:4fYPkVmDH24BQwbP9Zdmbt1qV6Qj-yADcUV8LVqhUlk&cup2hreq=e3195e53154630a41ccc470cd22d8d120c2d389da8becd03e0bff385c43a86b4
+2025-05-03 12:44:23,213 - INFO - Capturing response: https://update.googleapis.com/service/update2/json?cup2key=15:4fYPkVmDH24BQwbP9Zdmbt1qV6Qj-yADcUV8LVqhUlk&cup2hreq=e3195e53154630a41ccc470cd22d8d120c2d389da8becd03e0bff385c43a86b4 200 
+2025-05-03 12:44:25,143 - INFO - Capturing request: https://qxbroker.com/trade-room/images/ring_dark.svg
+2025-05-03 12:44:25,292 - INFO - Capturing response: https://qxbroker.com/trade-room/images/ring_dark.svg 200 
+2025-05-03 12:44:25,894 - INFO - Capturing request: https://clientservices.googleapis.com/uma/v2
+2025-05-03 12:44:26,244 - INFO - Capturing response: https://clientservices.googleapis.com/uma/v2 200 
+2025-05-03 12:51:04,290 - INFO - Using default request storage
+2025-05-03 12:51:04,300 - INFO - Created proxy listening on 127.0.0.1:10277
+2025-05-03 12:51:05,465 - INFO - Capturing request: http://clients2.google.com/time/1/current?cup2key=9:46SImGf1UiYwQs5I8_HJMRlLt_lM6k-IUA6mo2-z5Nk&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-05-03 12:51:05,622 - INFO - Capturing response: http://clients2.google.com/time/1/current?cup2key=9:46SImGf1UiYwQs5I8_HJMRlLt_lM6k-IUA6mo2-z5Nk&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 200 OK
+2025-05-03 12:51:05,780 - INFO - Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+2025-05-03 12:51:05,914 - INFO - Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+2025-05-03 12:51:15,480 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE
+2025-05-03 12:51:15,612 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE 200 
+2025-05-03 12:51:15,880 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744643050&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+2025-05-03 12:51:15,880 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+2025-05-03 12:51:16,329 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+2025-05-03 12:51:16,364 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744643050&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+2025-05-03 12:51:16,563 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2
+2025-05-03 12:51:16,564 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY
+2025-05-03 12:51:20,065 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2 200 
+2025-05-03 12:51:20,365 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY 200 
+2025-05-03 12:51:20,425 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+2025-05-03 12:51:20,598 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST
+2025-05-03 12:51:21,961 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744643027&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+2025-05-03 12:51:22,163 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+2025-05-03 12:51:26,320 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST 200 
+2025-05-03 12:51:26,699 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING
+2025-05-03 12:51:26,982 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:51:27,123 - INFO - Capturing response: https://qxbroker.com/en/trade 403 
+2025-05-03 12:51:27,184 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1696267841&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING 200 
+2025-05-03 12:51:27,231 - INFO - Capturing request: https://qxbroker.com/en/trade
+2025-05-03 12:51:27,375 - INFO - Capturing response: https://qxbroker.com/en/trade 403 
+2025-05-03 12:51:27,398 - INFO - Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION
+2025-05-03 12:51:27,512 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=939dd4779b36a494
+2025-05-03 12:51:27,643 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=939dd4779b36a494 200 
+2025-05-03 12:51:27,721 - INFO - Capturing request: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+2025-05-03 12:51:27,771 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1744729555&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+2025-05-03 12:51:27,778 - INFO - Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION 200 
+2025-05-03 12:51:27,796 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:51:27,807 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/264520655:1746252956:gmiNJRkS2JSZloGUbeCkifnj_l57nJCa7_pUXHmGY24/939dd4779b36a494/2KetG4Fex4YrrVOICSSBGa8srxqXMUvyz2KqC0KXoEs-1746255087-1.2.1.1-MlzN3Gdu.RKkdziQwGJO6Wk1xVefaUJkMWT0pDXjIag89VmB6j_aYhramUpr0VdU
+2025-05-03 12:51:27,854 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/264520655:1746252956:gmiNJRkS2JSZloGUbeCkifnj_l57nJCa7_pUXHmGY24/939dd4779b36a494/2KetG4Fex4YrrVOICSSBGa8srxqXMUvyz2KqC0KXoEs-1746255087-1.2.1.1-MlzN3Gdu.RKkdziQwGJO6Wk1xVefaUJkMWT0pDXjIag89VmB6j_aYhramUpr0VdU 200 
+2025-05-03 12:51:27,863 - INFO - Capturing request: https://challenges.cloudflare.com/turnstile/v0/g/8b139538fc64/api.js?onload=wSuaP7&render=explicit
+2025-05-03 12:51:27,930 - INFO - Capturing response: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015 200 
+2025-05-03 12:51:27,934 - INFO - Capturing response: https://qxbroker.com/favicon.ico 403 
+2025-05-03 12:51:28,014 - INFO - Capturing response: https://challenges.cloudflare.com/turnstile/v0/g/8b139538fc64/api.js?onload=wSuaP7&render=explicit 200 
+2025-05-03 12:51:28,193 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/fvnbe/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/
+2025-05-03 12:51:28,215 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/fvnbe/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal/auto/ 200 
+2025-05-03 12:51:28,342 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1
+2025-05-03 12:51:28,346 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=939dd47d9b253372&lang=auto
+2025-05-03 12:51:28,346 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/cmg/1 200 
+2025-05-03 12:51:28,498 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=939dd47d9b253372&lang=auto 200 
+2025-05-03 12:51:28,521 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/rum?
+2025-05-03 12:51:28,637 - INFO - Capturing request: https://qxbroker.com/favicon.ico
+2025-05-03 12:51:28,654 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/rum? 204 
+2025-05-03 12:51:28,663 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/444563807:1746253030:2bz3xvCjbp2rR04DWZ2a-nIYgZa11yogu1nBpShVlHs/939dd47d9b253372/lnMJ41Pb6Fcn5Ov.vPlz_yI0qwxRX4waRaoWLlUOcVw-1746255088-1.2.1.1-2ErKAZrrpyNoBiC81uDv3KmbYDsXSxb_TBN_sz_2oAbPDbhr7cI30xvMyYrhd4Ro
+2025-05-03 12:51:28,763 - INFO - Capturing response: https://qxbroker.com/favicon.ico 403 
+2025-05-03 12:51:28,948 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/444563807:1746253030:2bz3xvCjbp2rR04DWZ2a-nIYgZa11yogu1nBpShVlHs/939dd47d9b253372/lnMJ41Pb6Fcn5Ov.vPlz_yI0qwxRX4waRaoWLlUOcVw-1746255088-1.2.1.1-2ErKAZrrpyNoBiC81uDv3KmbYDsXSxb_TBN_sz_2oAbPDbhr7cI30xvMyYrhd4Ro 200 
+2025-05-03 12:51:29,579 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/939dd47d9b253372/1746255088744/RruH3aOKmIdylN7
+2025-05-03 12:51:29,711 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/d/939dd47d9b253372/1746255088744/RruH3aOKmIdylN7 200 
+2025-05-03 12:51:31,126 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/939dd47d9b253372/1746255088754/69bcd552d732c41a11e3e4b6a181934cb873e18e6ceb75e49c164fc9ba43db86/oqj4mBz30i05l2C
+2025-05-03 12:51:31,262 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/939dd47d9b253372/1746255088754/69bcd552d732c41a11e3e4b6a181934cb873e18e6ceb75e49c164fc9ba43db86/oqj4mBz30i05l2C 401 
+2025-05-03 12:51:31,342 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/444563807:1746253030:2bz3xvCjbp2rR04DWZ2a-nIYgZa11yogu1nBpShVlHs/939dd47d9b253372/lnMJ41Pb6Fcn5Ov.vPlz_yI0qwxRX4waRaoWLlUOcVw-1746255088-1.2.1.1-2ErKAZrrpyNoBiC81uDv3KmbYDsXSxb_TBN_sz_2oAbPDbhr7cI30xvMyYrhd4Ro
+2025-05-03 12:51:31,539 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/444563807:1746253030:2bz3xvCjbp2rR04DWZ2a-nIYgZa11yogu1nBpShVlHs/939dd47d9b253372/lnMJ41Pb6Fcn5Ov.vPlz_yI0qwxRX4waRaoWLlUOcVw-1746255088-1.2.1.1-2ErKAZrrpyNoBiC81uDv3KmbYDsXSxb_TBN_sz_2oAbPDbhr7cI30xvMyYrhd4Ro 200 
+2025-05-03 12:51:33,597 - INFO - Capturing request: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/444563807:1746253030:2bz3xvCjbp2rR04DWZ2a-nIYgZa11yogu1nBpShVlHs/939dd47d9b253372/lnMJ41Pb6Fcn5Ov.vPlz_yI0qwxRX4waRaoWLlUOcVw-1746255088-1.2.1.1-2ErKAZrrpyNoBiC81uDv3KmbYDsXSxb_TBN_sz_2oAbPDbhr7cI30xvMyYrhd4Ro
+2025-05-03 12:51:33,776 - INFO - Capturing response: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/flow/ov1/444563807:1746253030:2bz3xvCjbp2rR04DWZ2a-nIYgZa11yogu1nBpShVlHs/939dd47d9b253372/lnMJ41Pb6Fcn5Ov.vPlz_yI0qwxRX4waRaoWLlUOcVw-1746255088-1.2.1.1-2ErKAZrrpyNoBiC81uDv3KmbYDsXSxb_TBN_sz_2oAbPDbhr7cI30xvMyYrhd4Ro 200 
+2025-05-03 12:51:33,802 - INFO - Capturing request: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/264520655:1746252956:gmiNJRkS2JSZloGUbeCkifnj_l57nJCa7_pUXHmGY24/939dd4779b36a494/2KetG4Fex4YrrVOICSSBGa8srxqXMUvyz2KqC0KXoEs-1746255087-1.2.1.1-MlzN3Gdu.RKkdziQwGJO6Wk1xVefaUJkMWT0pDXjIag89VmB6j_aYhramUpr0VdU
+2025-05-03 12:51:33,950 - INFO - Capturing response: https://qxbroker.com/cdn-cgi/challenge-platform/h/g/flow/ov1/264520655:1746252956:gmiNJRkS2JSZloGUbeCkifnj_l57nJCa7_pUXHmGY24/939dd4779b36a494/2KetG4Fex4YrrVOICSSBGa8srxqXMUvyz2KqC0KXoEs-1746255087-1.2.1.1-MlzN3Gdu.RKkdziQwGJO6Wk1xVefaUJkMWT0pDXjIag89VmB6j_aYhramUpr0VdU 200 
