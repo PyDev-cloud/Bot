@@ -3,11 +3,25 @@ import json
 import atexit
 import threading
 import websocket
+import numpy as np
 from seleniumwire import webdriver
 from selenium.webdriver.chrome.options import Options
-from candle_handler import CandleHandler
-from technical_analysis import calculate_rsi, calculate_macd, calculate_bollinger_bands
 from pprint import pprint
+
+class CandleHandler:
+    def __init__(self):
+        self.candles = []
+        
+    def add_candle(self, candle):
+        self.candles.append(candle)
+        if len(self.candles) > 100:
+            self.candles = self.candles[-100:]
+    
+    def get_latest_candle(self):
+        return self.candles[-1] if self.candles else None
+    
+    def get_previous_candle(self):
+        return self.candles[-2] if len(self.candles) >= 2 else None
 
 class TradingBot:
     def __init__(self):
@@ -28,6 +42,7 @@ class TradingBot:
         self.previous_indicators = {}
         self.ws = None
         self.last_price = None
+        self.last_timestamp = None
 
     def extract_headers_and_ws_url(self):
         options = Options()
@@ -75,27 +90,21 @@ class TradingBot:
             ws.send('2probe')
             time.sleep(1)
 
-            # Start ping thread
             threading.Thread(target=self.send_ping, args=(ws,), daemon=True).start()
-            
-            # Send subscriptions
             self.send_subscriptions(ws)
 
         def on_message(ws, message):
             try:
-                # Handle ping-pong
                 if message == "2":
                     ws.send("3")
                     return
                 if message == "40":
                     return
                 
-                # Handle binary messages
                 if isinstance(message, bytes):
                     self.process_binary_message(message)
                     return
                     
-                # Handle text messages
                 if message.startswith("42"):
                     try:
                         data = json.loads(message[2:])
@@ -126,7 +135,6 @@ class TradingBot:
         self.ws.run_forever()
 
     def send_ping(self, ws):
-        """Send regular ping messages to keep connection alive"""
         while True:
             try:
                 ws.send("2")
@@ -136,13 +144,12 @@ class TradingBot:
                 break
 
     def send_subscriptions(self, ws):
-        """Send all required subscription messages"""
         time.sleep(2)
         subscriptions = [
             ["subscribe", {
                 "name": "candles",
                 "params": {
-                    "symbol": self.symbol,  # Using correct symbol format
+                    "symbol": self.symbol,
                     "timeframe": self.timeframe,
                     "type": "OTC"
                 }
@@ -174,43 +181,206 @@ class TradingBot:
                 print(f"[❌ Subscription error]: {e}")
 
     def process_binary_message(self, message):
-        """Process binary WebSocket messages"""
         try:
-            if message[0] == 0x04:  # Binary message header
-                decoded = message[1:].decode('utf-8')
-                data = json.loads(decoded)
+            if message[0] == 0x04:
+                decoded = message[1:].decode('utf-8', errors='replace')
                 
-                if isinstance(data, list):
-                    # Handle price quotes
-                    if len(data) == 2 and data[0] == self.symbol:
-                        print(f"\n[💰 {self.display_symbol} Quote]: {data[1]}")
-                        self.handle_price_update(data[1])
+                try:
+                    data = json.loads(decoded)
                     
-                    # Handle instrument lists
-                    elif any(isinstance(x, list) for x in data):
-                        for instrument in data:
-                            if isinstance(instrument, list) and instrument[1] == self.symbol:
-                                print(f"\n[📊 {self.display_symbol} Instrument Update]")
-                                pprint(instrument)
-                                self.process_instrument_data(instrument)
+                    if isinstance(data, list) and len(data) > 0:
+                        for item in data:
+                            if (isinstance(item, list) and len(item) >= 3 and 
+                                item[0] == self.symbol):
+                                timestamp = item[1]
+                                price = item[2]
+                                volume = item[3] if len(item) > 3 else 0
+                                
+                                print(f"\n[💰 {self.display_symbol} Price Update]")
+                                print(f"⏱️ {time.strftime('%H:%M:%S', time.localtime(timestamp))}")
+                                print(f"📈 Price: {price:.5f}")
+                                print(f"📊 Volume: {volume}")
+                                
+                                self.last_price = price
+                                self.last_timestamp = timestamp
+                                self.generate_trading_signals(price, timestamp)
+                                return
+                
+                    if isinstance(data, list):
+                        if len(data) == 2 and data[0] == self.symbol:
+                            print(f"\n[💰 {self.display_symbol} Quote]: {data[1]}")
+                            self.handle_price_update(data[1])
+                        
+                        elif any(isinstance(x, list) for x in data):
+                            for instrument in data:
+                                if isinstance(instrument, list) and instrument[1] == self.symbol:
+                                    print(f"\n[📊 {self.display_symbol} Instrument Update]")
+                                    pprint(instrument)
+                                    self.process_instrument_data(instrument)
+            
+                except json.JSONDecodeError:
+                    print(f"[⚠️ Couldn't decode binary message: {decoded}]")
+    
         except Exception as e:
-            print(f"[BINARY DECODE ERROR] {e}")
+            print(f"[❌ Binary message processing error] {str(e)}")
 
+    def generate_trading_signals(self, price, timestamp):
+        if not self.current_candle or not self.previous_candle:
+            return
+            
+        price_change = price - self.last_price
+        pct_change = (price_change / self.last_price) * 100
+        
+        rsi = self.indicators['rsi']
+        macd = self.indicators['macd']['macd']
+        macd_signal = self.indicators['macd']['signal']
+        bb_upper = self.indicators['bollinger']['upper']
+        bb_lower = self.indicators['bollinger']['lower']
+        
+        current_dir = "Bullish" if self.current_candle['close'] > self.current_candle['open'] else "Bearish"
+        prev_dir = "Bullish" if self.previous_candle['close'] > self.previous_candle['open'] else "Bearish"
+        
+        next_dir = self.predict_next_direction()
+        
+        signal = self.generate_signal(
+            current_dir=current_dir,
+            prev_dir=prev_dir,
+            rsi=rsi,
+            macd=macd,
+            macd_signal=macd_signal,
+            price=price,
+            bb_upper=bb_upper,
+            bb_lower=bb_lower
+        )
+        
+        self.print_signal_output(
+            signal=signal,
+            current_dir=current_dir,
+            rsi=rsi,
+            bb_width=bb_upper - bb_lower
+        )
+        
+        self.signals.append({
+            'timestamp': timestamp,
+            'price': price,
+            'signal': signal,
+            'indicators': self.indicators.copy()
+        })
 
+    def predict_next_direction(self):
+        score = 0
+        
+        if self.indicators['rsi'] > 70:
+            score -= 2
+        elif self.indicators['rsi'] < 30:
+            score += 2
+            
+        if self.indicators['macd']['macd'] > self.indicators['macd']['signal']:
+            score += 1
+        else:
+            score -= 1
+            
+        if self.last_price > self.indicators['bollinger']['upper']:
+            score -= 1
+        elif self.last_price < self.indicators['bollinger']['lower']:
+            score += 1
+            
+        return "CALL 🔺" if score > 0 else "PUT 🔻"
 
-   
+    def generate_signal(self, current_dir, prev_dir, rsi, macd, macd_signal, price, bb_upper, bb_lower):
+        if current_dir == "Bullish" and prev_dir == "Bullish":
+            if rsi < 70 and price < bb_upper:
+                return {
+                    'direction': 'CALL 🔺',
+                    'reason': 'Trend Continuation',
+                    'confidence': 'High' if rsi > 50 else 'Medium'
+                }
+            elif rsi > 70:
+                return {
+                    'direction': 'PUT 🔻',
+                    'reason': 'Overbought Reversal',
+                    'confidence': 'High'
+                }
+        
+        if current_dir == "Bullish" and prev_dir == "Bearish":
+            if macd > macd_signal:
+                return {
+                    'direction': 'CALL 🔺',
+                    'reason': 'Bullish Reversal',
+                    'confidence': 'Medium'
+                }
+        
+        if current_dir == "Bearish" and prev_dir == "Bearish":
+            if rsi > 30 and price > bb_lower:
+                return {
+                    'direction': 'PUT 🔻',
+                    'reason': 'Trend Continuation',
+                    'confidence': 'High' if rsi < 50 else 'Medium'
+                }
+            elif rsi < 30:
+                return {
+                    'direction': 'CALL 🔺',
+                    'reason': 'Oversold Reversal',
+                    'confidence': 'High'
+                }
+                
+        return {
+            'direction': 'CALL 🔺' if macd > macd_signal else 'PUT 🔻',
+            'reason': 'MACD Crossover',
+            'confidence': 'Medium'
+        }
 
+    def print_signal_output(self, signal, current_dir, rsi, bb_width):
+        print("\n" + "="*50)
+        print("🔔 AI Trading Signal Bot")
+        print("="*50)
+        print(f"📊 Asset: {self.display_symbol}")
+        print(f"🕒 Timeframe: M{int(self.timeframe/60)}" if self.timeframe >=60 else f"🕒 Timeframe: {self.timeframe}s")
+        print(f"📈 Trend: {current_dir} (RSI: {int(rsi) if rsi else 'N/A'})")
+        print(f"⚡ Volatility: {'High' if bb_width > 0.002 else 'Normal'}")
+        print(f"📤 Signal: {signal['direction']}")
+        print(f"📝 Reason: {signal['reason']}")
+        print(f"✅ Confidence: {signal['confidence']}")
+        print("="*50 + "\n")
 
+    def calculate_rsi(self, prices, period=14):
+        deltas = np.diff(prices)
+        seed = deltas[:period+1]
+        up = seed[seed >= 0].sum()/period
+        down = -seed[seed < 0].sum()/period
+        rs = up/down
+        rsi = 100 - (100/(1+rs))
+        
+        for i in range(period, len(prices)-1):
+            delta = deltas[i]
+            upval = delta if delta > 0 else 0
+            downval = -delta if delta < 0 else 0
+            
+            up = (up*(period-1) + upval)/period
+            down = (down*(period-1) + downval)/period
+            rs = up/down
+            rsi = np.append(rsi, 100 - (100/(1+rs)))
+            
+        return rsi[-1]
 
+    def calculate_macd(self, prices, fast=12, slow=26, signal=9):
+        exp1 = np.convolve(prices, np.ones(fast)/fast, mode='valid')
+        exp2 = np.convolve(prices, np.ones(slow)/slow, mode='valid')
+        macd = exp1[-1] - exp2[-1]
+        macd_history = exp1 - exp2
+        signal_line = np.convolve(macd_history, np.ones(signal)/signal, mode='valid')[-1]
+        return macd, signal_line
 
-
-
-
+    def calculate_bollinger_bands(self, prices, window=20, num_std=2):
+        sma = np.mean(prices[-window:])
+        std = np.std(prices[-window:])
+        upper = sma + (std * num_std)
+        middle = sma
+        lower = sma - (std * num_std)
+        return upper, middle, lower
 
     def process_instrument_data(self, instrument_data):
-        """Fixed version that properly detects valid options"""
         try:
-            # Validate input structure
             if not isinstance(instrument_data, list) or len(instrument_data) < 22:
                 print("[⚠️ Invalid data structure]")
                 return
@@ -218,12 +388,10 @@ class TradingBot:
             print(f"\n[📢 {self.display_symbol} Instrument Update]")
             print(f"⏱️ {time.strftime('%H:%M:%S')}")
 
-            # Basic info section
             print("\n🔍 Basic Info:")
             print(f"  Type: {instrument_data[3]}")
             print(f"  Status: {'🟢 Active' if instrument_data[13] else '🔴 Inactive'}")
             
-            # Options pricing section - FIXED HERE
             print("\n💲 Options Pricing:")
             valid_options = []
             if isinstance(instrument_data[11], list):
@@ -233,7 +401,6 @@ class TradingBot:
             
             if valid_options:
                 for option in valid_options:
-                    # Fixed direction detection logic
                     is_call = any(opt[0] == option['time'] and opt[1] == 'call' 
                                 for opt in instrument_data[10] if isinstance(opt, list) and len(opt) > 1)
                     direction = "📈 CALL" if is_call else "📉 PUT"
@@ -241,7 +408,6 @@ class TradingBot:
             else:
                 print("  No valid options available")
 
-            # Rest of the method remains the same...
             print("\n📈 Market Analysis:")
             if isinstance(instrument_data[19], (int, float)):
                 trend = "⬆️ Bullish" if instrument_data[19] >= 0 else "⬇️ Bearish"
@@ -257,25 +423,16 @@ class TradingBot:
                 print(f"Options Data: {instrument_data[11]}")
                 print(f"Option Types: {instrument_data[10]}")
 
-
-
-
-
-
-
-
     def process_relevant_data(self, data):                 
         if not isinstance(data, list):
             return      
             
-        # Handle candle data
         if data[0] == "candle-generated":
             if data[1].get("symbol") == self.symbol:
                 print(f"\n[{self.display_symbol} CANDLE]")
                 self.handle_candle_data(data[1])
 
     def handle_price_update(self, price):
-        """Handle real-time price updates"""
         print(f"[📈 Price Update] {time.ctime()}: {price:.5f}")
         if self.last_price is not None:
             change = (price - self.last_price) / self.last_price * 100
@@ -313,11 +470,11 @@ class TradingBot:
         if len(self.candle_handler.candles) >= 14:
             closes = [c['close'] for c in self.candle_handler.candles[-14:]]
 
-            self.indicators['rsi'] = calculate_rsi(closes)
-            macd, signal = calculate_macd(closes)
+            self.indicators['rsi'] = self.calculate_rsi(closes)
+            macd, signal = self.calculate_macd(closes)
             self.indicators['macd']['macd'] = macd
             self.indicators['macd']['signal'] = signal
-            upper, middle, lower = calculate_bollinger_bands(closes)
+            upper, middle, lower = self.calculate_bollinger_bands(closes)
             self.indicators['bollinger'] = {
                 'upper': upper,
                 'middle': middle,
@@ -328,8 +485,6 @@ class TradingBot:
             print(f"📈 RSI: {self.indicators['rsi']:.2f}")
             print(f"📉 MACD: {macd:.5f} | Signal: {signal:.5f}")
             print(f"📊 Bollinger: U={upper:.5f} M={middle:.5f} L={lower:.5f}")
-
-    # ... [rest of your methods remain unchanged] ...
 
 if __name__ == "__main__":
     bot = TradingBot()
